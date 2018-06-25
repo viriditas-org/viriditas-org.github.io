@@ -6,3 +6,6 @@ exclude:
   - Gemfile.lock
 timezone: America/New_York
 permalink: pretty
+plugins:
+  - jekyll-seo-tag
+  - jemoji
