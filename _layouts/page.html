@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<header class="site-header" role="banner">
+  <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">Viriditas</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+      <ul class="navbar-nav mr-auto">
+        {% assign sitepages = site.pages | sort: "order" %}
+        {% for sitepage in sitepages %}
+          {% if sitepage.title %}
+            <li class="nav-item {% if sitepage.url == page.url -%}active{%- endif %}">
+              <a class="nav-link" href="{{ sitepage.url | relative_url }}">{{ sitepage.title | escape }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </nav>
+</header>
+
+<main role="main">
+  <div class="container">
+    <article class="page">
+      <h1 class="page-title">{{ page.title | escape }}</h1>
+
+      <div class="page-content">
+        {{ content }}
+      </div>
+    </article>
+  </div>
+</main>

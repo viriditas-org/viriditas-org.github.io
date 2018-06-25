@@ -1,5 +1,10 @@
 # Jekyll-config for Viriditas site
-theme: jekyll-theme-midnight
+
+# Site Metadata
+title: Viriditas
+description: Engineering Biology for Space Exploration • 10.20.2018 • Boston MA
+
+# Jekyll Settings
 exclude:
   - .gitignore
   - Gemfile

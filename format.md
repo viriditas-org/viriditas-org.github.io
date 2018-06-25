@@ -1,6 +1,8 @@
 ---
 title: Format
 order: 2
+layout: page
+description: Oview of the meeting format and agenda
 ---
 
 20 min talk - 45 min discussion 25 min summary 2 min each table - go through slides on common

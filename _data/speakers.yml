@@ -1,0 +1,15 @@
+- name: Captain Jean-Luc Picard
+  slug: picard
+  bio: '
+    Captain of the *USS Enterprise*, NCC-1701-D
+  '
+- name: Beverly Crusher
+  slug: crusher
+  bio: '
+    Doctor of the *USS Enterprise*, NCC-1701-D
+  '
+- name: Data
+  slug: data
+  bio: '
+    Android; cannot feel love, but can make you feel it.
+  '

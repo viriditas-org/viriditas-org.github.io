@@ -1,6 +1,7 @@
 ---
 title: Home
 order: 1
+layout: home
 ---
 
 *Viriditas* is a joint effort by the Wyss Institute at Harvard, the MIT Media Lab Space Exploration

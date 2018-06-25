@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<main role="main">
+  <section id="title">
+  <div class="jumbotron">
+    <div class="container">
+      <h1 class="display-3">{{ site.title | default: site.github.owner_name }}</h1>
+      <p>{{ site.description | default: site.github.project_tagline }}</p>
+    </div>
+  </div>
+  </section>
+
+  <div class="container">
+    {{ content }}
+  </div>
+
+  <div class="container">
+   <div class="row">
+    {% assign sitepages = site.pages | sort: "order" %}
+    {% for sitepage in sitepages %}
+      {% if sitepage.title and sitepage.url != page.url %}
+        <div class="col">
+          <h2><a href="{{ sitepage.url | relative_url }}">{{ sitepage.title | escape }}</a></h2>
+          <p>{{ sitepage.description }}</p>
+        </div>
+      {% endif %}
+    {% endfor %}
+   </div>
+  </div>
+
+</main>
