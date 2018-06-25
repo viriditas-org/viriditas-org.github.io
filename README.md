@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Viriditas Website Data
 
-You can use the [editor on GitHub](https://github.com/viriditas-org/viriditas-org.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website contains the code behind the [Viriditas Website](https://viriditas-org.github.io/).
+It is static Markdown and HTML, compiled by [Jekyll](https://jekyllrb.com/) via [GitHub
+Pages](https://pages.github.com/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Local development
 
-### Markdown
+To build this site locally, you must have [Ruby](https://www.ruby-lang.org/) > 2.1.0 installed on
+your machine, along with the [Bundler](https://bundler.io) gem. To install Bundler, `gem install
+bundler`.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To install the dependencies required for the site to work, run `bundler install`. Then, when
+dependencies have been installed, run `bundler exec jekyll start` to serve the site. View the
+resulting HTML at [`http://localhost:4000`](http://locahost:4000).
 
-```markdown
-Syntax highlighted code block
+## Site organization
 
-# Header 1
-## Header 2
-### Header 3
+Most of the content of the site is contained in markdown (`.md`) files in the root directory. These
+files start with front-matter that looks like:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```yaml
+---
+# ...
+---
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This front-matter determines how the page will be displayed and organized.
 
-### Jekyll Themes
+### Site metadata
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/viriditas-org/viriditas-org.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Additional information about the site is set directly in `_config.yml`. This can be inserted into
+any page's content. For example, the `description` metadata is accessed as `{{ site.description }}`.
 
-### Support or Contact
+### Page editing
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To edit a page's main content, simply write content in Markdown in the .md file. To edit specifics
+of the CSS and HTML, edit the pages in `_layout/`. There are two main layouts, `page` and `home`,
+both of which fill in the inner content of the `default` layout. The layouts are composed of
+individual modules, which are defined in the `_includes/` folder.
+
+### Speaker info
+
+The speaker info page is different from other pages: it automatically reads the data contained in
+`_data/speakers.yml`, and uses it to create the list of speakers. To add a speaker or modify a
+speaker's information, edit the data in that file instead.
