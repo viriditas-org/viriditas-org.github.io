@@ -1,8 +1,8 @@
 # Viriditas Website Data
 
-This website contains the code behind the [Viriditas Website](https://viriditas-org.github.io/).
-It is static Markdown and HTML, compiled by [Jekyll](https://jekyllrb.com/) via [GitHub
-Pages](https://pages.github.com/).
+This repository contains the code and data behind the [Viriditas
+Website](https://viriditas-org.github.io/). It is static Markdown and HTML, compiled by
+[Jekyll](https://jekyllrb.com/) via [GitHub Pages](https://pages.github.com/).
 
 ## Local development
 
