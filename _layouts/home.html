@@ -18,7 +18,7 @@ layout: default
 
   <div class="container">
    <div class="row">
-    {% assign sitepages = site.pages | sort: "order" %}
+    {%- assign sitepages = site.pages | where_exp: "item", "item.menu_order" | sort: "menu_order" -%}
     {% for sitepage in sitepages %}
       {% if sitepage.title and sitepage.url != page.url %}
         <div class="col">

@@ -1,0 +1,16 @@
+---
+title: Speakers
+description: Biographies of the speakers giving extended presentations at the workshop
+layout: page
+menu_order: 2
+
+---
+
+Speakers are:
+<ul>
+{% for speaker in site.speakers %}
+  <li>{{ speaker.name }} ({{ speaker.slug }}):
+    {{ speaker.content }}
+  </li>
+{% endfor %}
+</ul>

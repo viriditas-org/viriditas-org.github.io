@@ -21,7 +21,8 @@ files start with front-matter that looks like:
 
 ```yaml
 ---
-# ...
+layout: page
+# ... etc.
 ---
 ```
 
@@ -42,5 +43,6 @@ individual modules, which are defined in the `_includes/` folder.
 ### Speaker info
 
 The speaker info page is different from other pages: it automatically reads the data contained in
-`_data/speakers.yml`, and uses it to create the list of speakers. To add a speaker or modify a
-speaker's information, edit the data in that file instead.
+`_speakers/*.md`, and uses it to create the list of speakers. To add a speaker or modify a
+speaker's information, add or modify a `.md` file to that folder. The speaker's name should be
+specified in the front matter of the Markdown file.
