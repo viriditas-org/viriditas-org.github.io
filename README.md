@@ -46,3 +46,19 @@ The speaker info page is different from other pages: it automatically reads the 
 `_speakers/*.md`, and uses it to create the list of speakers. To add a speaker or modify a
 speaker's information, add or modify a `.md` file to that folder. The speaker's name should be
 specified in the front matter of the Markdown file.
+
+## Usage and License
+
+Text and source code &copy; Viriditas, 2018. Artwork &copy; Pooya Sanjari/Imaginorama Design, 2018.
+
+No permission is given to reuse, copy, or modify the artwork on this site without the experess
+written permission of the copyright holder.
+
+Except where noted otherwise, the source code in this repository are free software: you can
+redistribute it and/or modify it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either [version 3 of the License](./LICENSE), or (at your option) any
+later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See
+the GNU General Public License for more details.
