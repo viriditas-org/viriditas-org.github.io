@@ -1,7 +1,6 @@
 ---
 title: Format
-<!---description: Overview of the workshop format
--->
+description: 
 layout: page
 menu_order: 1
 
