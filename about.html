@@ -1,0 +1,16 @@
+---
+title: About
+description: 
+layout: page
+menu_order: 4
+
+---
+
+Viriditas organizers are:
+<ul>
+{% for speaker in site.speakers %}
+  <li>{{ speaker.name }} ({{ speaker.slug }}):
+    {{ speaker.content }}
+  </li>
+{% endfor %}
+</ul>
