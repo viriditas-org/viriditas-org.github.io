@@ -8,8 +8,8 @@ description: Engineering Biology for Space Exploration
 collections:
   speakers:
   
-collections:
-  about:
+#collections:
+#  about:
 
 # Jekyll Settings
 exclude:
