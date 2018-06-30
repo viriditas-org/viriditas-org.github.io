@@ -1,6 +1,6 @@
 ---
 title: Format
-description: Oview of the meeting format and agenda
+<description: Overview of the workshop format>
 layout: page
 menu_order: 1
 
