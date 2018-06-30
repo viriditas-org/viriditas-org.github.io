@@ -7,6 +7,9 @@ description: Engineering Biology for Space Exploration
 # Speaker data as its own collection
 collections:
   speakers:
+  
+collections:
+  about:
 
 # Jekyll Settings
 exclude:
