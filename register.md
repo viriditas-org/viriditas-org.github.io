@@ -1,8 +1,6 @@
 ---
 title: Register
 layout: page
-<!--description: Link to registration
--->
 menu_order: 3
 
 ---
