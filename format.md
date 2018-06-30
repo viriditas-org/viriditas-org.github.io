@@ -6,26 +6,6 @@ menu_order: 1
 
 ---
 
-20 min talk - 45 min discussion 25 min summary 2 min each table - go through slides on common
-document, mic at each table
+The structure of the workshop is modeled after the concept of an "unconference", which prioritize attention and engagement with the partcipants. It will comprise four technical talks interspersed with breakout sessions of groups of 8-10 people to brainstorm ideas. It will be discussion driven so please be aware that active participation is strongly encouraged.
 
-
-Ideally, the speakers should keep to a similar structure and gear it towards generating discussion
-rather than talking about their specific projects
-
-Moderator - can be Shannon, or different people each time
-
-The talks can have questions but keep them only to a few minute digressions
-
-
-State goal of the meeting ideally would like to write a review about it, like GP Write
-
-
-Display constraints and numbers for people to work with back-of-the-envelope if they want, it’s up
-to them
-
-Make sure the talks are primers to get everyone on the same page and decrease the risk of a language
-disconnect of fields
-
-
-Live content generation on a single document - presentation/spreadsheet
+The goal of this workshop is to have lively and productive discussions about tractable steps necessary to create life-support systems on Mars. We plan to coalesce the thoughts and conclusions into a review article and white paper that would serve as a template for future study. We hope to create a stronger network of those who seek cross-disciplinary collaborations on the future of space exploration. We hope that this workshop will nucleate the formation of a more stable community of space-inspired biologists.
