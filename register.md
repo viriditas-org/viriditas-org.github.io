@@ -1,11 +1,10 @@
 ---
 title: Register
 layout: page
-description: Where to go to register
+description: Link to registration
 menu_order: 3
 
 ---
 
-To register, fill out the [Registration
-Form](https://docs.google.com/forms/d/141f34b5thrhUFbj4dOE3uDjsY8CqjbXE_-kkGvYZxMg/). Please note
-that attendence is by invitation only, so you will need the password in your invitation email.
+To register, please fill out the [Registration
+Form](https://docs.google.com/forms/d/141f34b5thrhUFbj4dOE3uDjsY8CqjbXE_-kkGvYZxMg/). Attendence is by invitation only, the password is provided in your invitation email.
