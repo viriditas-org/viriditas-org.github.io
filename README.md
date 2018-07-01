@@ -10,8 +10,8 @@ To build this site locally, you must have [Ruby](https://www.ruby-lang.org/) > 2
 your machine, along with the [Bundler](https://bundler.io) gem. To install Bundler, `gem install
 bundler`.
 
-To install the dependencies required for the site to work, run `bundler install`. Then, when
-dependencies have been installed, run `bundler exec jekyll start` to serve the site. View the
+To install the dependencies required for the site to work, run `bundle install`. Then, when
+dependencies have been installed, run `bundle exec jekyll serve` to serve the site. View the
 resulting HTML at [`http://localhost:4000`](http://locahost:4000).
 
 ## Site organization
