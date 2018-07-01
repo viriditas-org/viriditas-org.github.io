@@ -2,14 +2,11 @@
 
 # Site Metadata
 title: Viriditas
-description: Engineering Biology for Space Exploration  
+description: Engineering Biology for Space Exploration
 
 # Speaker data as its own collection
 collections:
   speakers:
-
-# Organizer data as its own collection
-collections:
   about:
 
 # Jekyll Settings

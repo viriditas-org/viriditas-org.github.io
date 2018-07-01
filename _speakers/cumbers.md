@@ -1,5 +1,5 @@
 ---
-name: John Cumbers, PhD
+name: 'John Cumbers, PhD'
 
 ---
 
