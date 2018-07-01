@@ -7,7 +7,9 @@ layout: default
   <div class="jumbotron">
     <div class="container">
       <h1 class="display-3">{{ site.title | default: site.github.owner_name }}</h1>
-      <p>{{ site.description | default: site.github.project_tagline }}</p>
+      <h3>
+        <small class="text-muted">{{ site.description | default: site.github.project_tagline }}</small>
+      </h3>
     </div>
   </div>
   </section>
@@ -22,7 +24,7 @@ layout: default
     {% for sitepage in sitepages %}
       {% if sitepage.title and sitepage.url != page.url %}
         <div class="col">
-          <h2><a href="{{ sitepage.url | relative_url }}">{{ sitepage.title | escape }}</a></h2>
+          <h2 class="display-4"><a href="{{ sitepage.url | relative_url }}">{{ sitepage.title | escape }}</a></h2>
         </div>
       {% endif %}
     {% endfor %}

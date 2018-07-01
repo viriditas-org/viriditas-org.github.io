@@ -1,6 +1,7 @@
 ---
-name: Christina Agapakis, PhD
+name: 'Christina Agapakis, Ph.D.'
+tagline: 'Creative Director, Ginkgo Bioworks'
 
 ---
 
-Creative Director, Ginkgo Bioworks
+Christina's bio

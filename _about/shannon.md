@@ -1,6 +1,7 @@
 ---
-name: Shannon Nangle, PhD
+name: 'Shannon Nangle, PhD'
+tagline: 'Postdoctoral Reseach Fellow, Harvard'
 
 ---
 
-Postdoctoral Reseach Fellow, Harvard
+Shannon's bio
