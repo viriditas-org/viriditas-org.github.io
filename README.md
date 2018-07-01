@@ -17,7 +17,7 @@ resulting HTML at [`http://localhost:4000`](http://locahost:4000).
 ## Site organization
 
 Most of the content of the site is contained in markdown (`.md`) files in the root directory. These
-files start with front-matter that looks like:
+files start with front-matter metadata that looks like:
 
 ```yaml
 ---
@@ -25,8 +25,8 @@ layout: page
 # ... etc.
 ---
 ```
-
-This front-matter determines how the page will be displayed and organized.
+Front matter must be valid [YAML](http://yaml.org/) and determines how the page will be displayed
+and organized.
 
 ### Site metadata
 
