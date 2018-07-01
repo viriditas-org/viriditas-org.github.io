@@ -1,6 +1,5 @@
 ---
 title: Format
-description: 
 layout: page
 menu_order: 1
 

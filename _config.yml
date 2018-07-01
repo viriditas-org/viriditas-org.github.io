@@ -4,7 +4,8 @@
 title: Viriditas
 description: Engineering Biology for Space Exploration
 
-# Speaker data as its own collection
+# Speaker and organizer data are collections, rather than
+# individual summaries
 collections:
   speakers:
   about:

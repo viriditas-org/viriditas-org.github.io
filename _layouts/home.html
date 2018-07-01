@@ -23,7 +23,6 @@ layout: default
       {% if sitepage.title and sitepage.url != page.url %}
         <div class="col">
           <h2><a href="{{ sitepage.url | relative_url }}">{{ sitepage.title | escape }}</a></h2>
-          <p>{{ sitepage.description }}</p>
         </div>
       {% endif %}
     {% endfor %}
