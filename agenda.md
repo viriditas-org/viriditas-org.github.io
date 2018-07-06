@@ -1,3 +1,4 @@
+| Time        | Speaker             | Affiliation
 |-------------|---------------------|--------------------------|
 | 9-9:30      | Shannon Nangle, PhD | Harvard Medical School   |
 | 9:30-10:00  | Paul Wooster        | SpaceX                   |
