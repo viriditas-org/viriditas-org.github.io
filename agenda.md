@@ -1,5 +1,4 @@
 | 9-9:30      | Shannon Nangle, PhD | Harvard Medical School   |
-|-------------|---------------------|--------------------------|
 | 9:30-10:00  | Paul Wooster        | SpaceX                   |
 | 10:00-11:15 | Break-out session 1 |                          |
 | 11:15-11:45 | Shannon Rupert, PhD | The Mars Society         |
