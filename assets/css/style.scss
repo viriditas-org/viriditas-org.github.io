@@ -11,16 +11,13 @@ html {
     background-position-x: center;
     background-position-y: top;
     background-size: cover;
-    background-attachment: fixed;
-    
-    div.transbox {
-    margin: 30px;
-    background-color: #091F36;
-    opacity: 0.85;
-    }
-    
+    background-attachment: fixed
        
   }
+  
+    .header-container-wrapper{
+    background-color: #FF0000;
+}
 
 /* fonts */
 
