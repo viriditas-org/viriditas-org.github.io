@@ -16,6 +16,8 @@ html {
   }
 }
 
+/*fonts*/
+
 h1 {
     font-size: 2.5em; /* 40px/16=2.5em */
 }
@@ -26,4 +28,31 @@ h2 {
 
 p {
     font-size: 0.875em; /* 14px/16=0.875em */
+}
+
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+/*navbar*/
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
 }
