@@ -78,7 +78,7 @@ li {
   }
 }
   
-dark .navbar-nav .active > .nav-link {
+.navbar-nav .active > .nav-link {
     color: #E7752C;
 }
   
@@ -97,6 +97,10 @@ h2 {
 }
 
 p {
+  font-size: 1.2em;
+}
+ 
+li {
   font-size: 1.2em;
 }
   
