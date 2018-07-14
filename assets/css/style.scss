@@ -63,8 +63,8 @@ li {
   }
 }
   
-.active {
-  font-color: #EA9132;
+dark .navbar-nav .active > .nav-link {
+    color: #E7752C;
 }
   
 .bg-dark {
