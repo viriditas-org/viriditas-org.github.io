@@ -14,10 +14,6 @@ html {
     background-attachment: fixed      
     }
   
-.jumbotron {
-background-color:black !important; 
-  }
-  
 ul {
     list-style-type: none;
     margin: 0;
@@ -67,12 +63,12 @@ li {
   }
 }
   
-.bg-dark {
-    background-color: #111 !important;
-}
-
 .active {
   background-color: #333;
+}
+  
+.bg-dark {
+    background-color: #111 !important;
 }
 
 /* fonts */
