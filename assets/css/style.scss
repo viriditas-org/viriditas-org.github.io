@@ -21,6 +21,14 @@ html {
     border-radius: 0;
 }  
   
+.text-muted {
+    color: rgba(255,255,255,0.4) !important;
+}
+small, .small {
+    font-size: 100%;
+    font-weight: 400;
+}
+  
 ul {
     list-style-type: none;
     margin: 0;
