@@ -42,7 +42,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #003946;
   position: -webkit-sticky;
   /* Safari */
   position: sticky;
@@ -58,7 +58,7 @@ li {
     padding: 14px 16px;
     text-decoration: none;
     &:hover {
-      background-color: #111;
+      background-color: #003946;
     }
   }
 }
@@ -68,7 +68,7 @@ li {
 }
   
 .bg-dark {
-    background-color: #111 !important;
+    background-color: #003946 !important;
 }
 
 /* fonts */
