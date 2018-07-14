@@ -11,8 +11,17 @@ html {
     background-position-x: center;
     background-position-y: top;
     background-size: cover;
-    background-attachment: fixed      
-    }
+    background-attachment: fixed 
+    display: flex;
+    flex-direction: column;
+}
+    
+.content {
+flex: 1 0 auto;
+}
+.footer {
+flex-shrink: 0;
+}
   
 .jumbotron {
     padding: 1rem 2rem;
@@ -103,11 +112,5 @@ p {
 li {
   font-size: 1.2em;
 }
-  
-footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
+
 }
-  
- }
