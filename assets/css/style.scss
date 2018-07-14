@@ -43,15 +43,6 @@ html {
   }
 }
 
-@media (--break-lg) {
-  .Site-content {
-    padding-top: var(--space-lg);
-    &::after {
-      margin-top: var(--space-lg);
-    }
-  }
-}
-
 .Site-content--full {
   padding: 0;
   &::after {
