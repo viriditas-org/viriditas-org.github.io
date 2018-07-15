@@ -10,10 +10,7 @@ The structure of _Viriditas_ is modeled after the concept of an
 which prioritizes attention and engagement with the partcipants. It will consist of four technical
 talks, interspersed with breakout sessions of 8 -- 10 people each to brainstorm ideas.
 
-Brainstorms will occur along three tracks:
-1. _Martian Resources and Environment_
-2. _Genetic Engineering_
-3. _Closing the Loop on Life-support Systems_
+Brainstorms will occur along three tracks: 1. _Martian Resources and Environment_ 2. _Genetic Engineering_ 3. _Closing the Loop on Life-support Systems_
 
 After each talk, the participants can select which track is most interesting and join a breakout
 session that focuses on that topic. The sessions will be discussion-driven and guided by a
