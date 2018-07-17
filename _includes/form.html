@@ -1,0 +1,171 @@
+<!-- Special version of Bootstrap that only affects content wrapped in .bootstrap-iso -->
+<link rel="stylesheet" href="https://formden.com/static/cdn/bootstrap-iso.css" /> 
+
+<!-- Inline CSS based on choices in "Settings" tab -->
+<style>.bootstrap-iso .formden_header h2, .bootstrap-iso .formden_header p, .bootstrap-iso form{font-family: Arial, Helvetica, sans-serif; color: black}.bootstrap-iso form button, .bootstrap-iso form button:hover{color: white !important;} .asteriskField{color: red;}</style>
+
+<!-- HTML Form (wrapped in a .bootstrap-iso div) -->
+<div class="bootstrap-iso">
+ <div class="container-fluid">
+  <div class="row">
+   <div class="col-md-6 col-sm-6 col-xs-12">
+    <form method="post">
+     <div class="form-group ">
+      <label class="control-label requiredField" for="name">
+       Name
+       <span class="asteriskField">
+        *
+       </span>
+      </label>
+      <input class="form-control" id="name" name="name" placeholder="Sax Russell" type="text"/>
+     </div>
+     <div class="form-group ">
+      <label class="control-label requiredField" for="email">
+       Email
+       <span class="asteriskField">
+        *
+       </span>
+      </label>
+      <input class="form-control" id="email" name="email" type="text"/>
+     </div>
+     <div class="form-group ">
+      <label class="control-label " for="select">
+       Sector
+      </label>
+      <select class="select form-control" id="select" name="select">
+       <option value="Academia">
+        Academia
+       </option>
+       <option value="Industry">
+        Industry
+       </option>
+       <option value="Government">
+        Government
+       </option>
+      </select>
+     </div>
+     <div class="form-group ">
+      <label class="control-label requiredField" for="select1">
+       Preferred track for Talk 1: Paul Wooster, SpaceX
+       <span class="asteriskField">
+        *
+       </span>
+      </label>
+      <select class="select form-control" id="select1" name="select1">
+       <option value="Martian resources and environment">
+        Martian resources and environment
+       </option>
+       <option value="Metabolic engineering">
+        Metabolic engineering
+       </option>
+       <option value="Closing the loop on life-support systems">
+        Closing the loop on life-support systems
+       </option>
+      </select>
+     </div>
+     <div class="form-group ">
+      <label class="control-label requiredField" for="select2">
+       Select a Choice
+       <span class="asteriskField">
+        *
+       </span>
+      </label>
+      <select class="select form-control" id="select2" name="select2">
+       <option value="Martian resources and environment">
+        Martian resources and environment
+       </option>
+       <option value="Metabolic engineering">
+        Metabolic engineering
+       </option>
+       <option value="Closing the loop on life-support systems">
+        Closing the loop on life-support systems
+       </option>
+      </select>
+      <span class="help-block" id="hint_select2">
+       Preferred track for Talk 2: Shannon Rupert, The Mars Society
+      </span>
+     </div>
+     <div class="form-group ">
+      <label class="control-label requiredField" for="select3">
+       Preferred track for Talk 3: John Cumbers, SynBioBeta
+       <span class="asteriskField">
+        *
+       </span>
+      </label>
+      <select class="select form-control" id="select3" name="select3">
+       <option value="Martian resources and environment">
+        Martian resources and environment
+       </option>
+       <option value="Metabolic engineering">
+        Metabolic engineering
+       </option>
+       <option value="Closing the loop on life-support systems">
+        Closing the loop on life-support systems
+       </option>
+      </select>
+     </div>
+     <div class="form-group ">
+      <label class="control-label requiredField" for="select4">
+       Preferred track for Talk 4: Tara Karimi, Cemvita Factory
+       <span class="asteriskField">
+        *
+       </span>
+      </label>
+      <select class="select form-control" id="select4" name="select4">
+       <option value="Martian resources and environment">
+        Martian resources and environment
+       </option>
+       <option value="Metabolic engineering">
+        Metabolic engineering
+       </option>
+       <option value="Closing the loop on life-support systems">
+        Closing the loop on life-support systems
+       </option>
+      </select>
+     </div>
+     <div class="form-group ">
+      <label class="control-label ">
+       Dietary preferences
+      </label>
+      <div class=" ">
+       <div class="checkbox">
+        <label class="checkbox">
+         <input name="checkbox" type="checkbox" value="Vegetarian"/>
+         Vegetarian
+        </label>
+       </div>
+       <div class="checkbox">
+        <label class="checkbox">
+         <input name="checkbox" type="checkbox" value="Vegan"/>
+         Vegan
+        </label>
+       </div>
+       <div class="checkbox">
+        <label class="checkbox">
+         <input name="checkbox" type="checkbox" value="Gluten-free"/>
+         Gluten-free
+        </label>
+       </div>
+       <div class="checkbox">
+        <label class="checkbox">
+         <input name="checkbox" type="checkbox" value="Other"/>
+         Other
+        </label>
+       </div>
+       <span class="help-block" id="hint_checkbox">
+        Check all that apply
+       </span>
+      </div>
+     </div>
+     <div class="form-group">
+      <div>
+       <button class="btn btn-primary " name="submit" type="submit">
+        Submit
+       </button>
+      </div>
+     </div>
+    </form>
+   </div>
+  </div>
+ </div>
+</div>
