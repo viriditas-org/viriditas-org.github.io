@@ -3,8 +3,9 @@ title: Agenda
 menu_order: 2
 
 ---
-<p>
+
 <table class="tg">
+  <p>
   <tr>
     <th class="tg-up7l">9:00 AM</th>
     <th class="tg-ljh4">Shannon Nangle, PhD</th>
@@ -121,6 +122,5 @@ menu_order: 2
     <td class="tg-up7l">6:00 PM</td>
     <td class="tg-ljh4">Reception sponsored by Aeronaut Brewery<br></td>
   </tr>
-
-</table>
   </p>
+</table>
