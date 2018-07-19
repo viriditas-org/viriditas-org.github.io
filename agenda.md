@@ -10,7 +10,6 @@ menu_order: 2
     <th class="tg-ljh4"> </th>
   </tr>
   <tr>
-  <tr>
     <td class="tg-up7l">9:00 AM</th>
     <td class="tg-ljh4">Shannon Nangle, PhD</th>
   </tr>
