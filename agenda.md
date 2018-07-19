@@ -1,6 +1,5 @@
 ---
-
-title:Agenda
+title: Agenda
 layout: page
 menu_order: 2
 
