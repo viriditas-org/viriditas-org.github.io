@@ -1,7 +1,7 @@
 ---
 title: Speakers
 layout: collection
-menu_order: 2
+menu_order: 3
 
 ---
 
