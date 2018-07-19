@@ -8,7 +8,7 @@
 | 1:00-2:00   | Lunch               | By Flour                 |
 | 2:00-2:30   | John Cumber, PhD    | SynBioBeta               |
 | 2:30-3:45   | Break-out session 3 |                          |
-| 3:45-4:15   | Tara Karimi, PhD    | CemVita Factories        |
+| 3:45-4:15   | Tara Karimi, PhD    | Cemvita Factory        |
 | 4:15-5:30   | Break-out session 4 |                          |
 | 5:30-6:00   | Luis Campos, PhD    | University of New Mexico |
 | 6:00-8:00   | Posters and beer    | By Aeronaut Brewery      |
