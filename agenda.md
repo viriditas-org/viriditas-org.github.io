@@ -4,8 +4,12 @@ menu_order: 2
 
 ---
 
-<table>
-  
+<table class="tg">
+  <tr>
+    <th class="tg-up7l"> </th>
+    <th class="tg-ljh4"> </th>
+  </tr>
+  <tr>
   <tr>
     <td class="tg-up7l">9:00 AM</th>
     <td class="tg-ljh4">Shannon Nangle, PhD</th>
