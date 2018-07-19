@@ -1,7 +1,7 @@
 ---
 title: Register
 layout: page
-menu_order: 3
+menu_order: 4
 
 ---
 
