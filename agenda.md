@@ -12,8 +12,8 @@
     <td><span style="font-style:italic">Harvard University</span></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>9:30 AM</td>
@@ -24,16 +24,16 @@
     <td><span style="font-style:italic">SpaceX</span></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>10:00 AM</td>
     <td>Break-out session 2</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>10:15 AM</td>
@@ -44,15 +44,15 @@
     <td><span style="font-style:italic">The Mars Society</span></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>11:45 AM</td>
     <td>Break-out session 2</td>
   </tr>
   <tr>
-    <td></td>
+    <td>&nbsp;&nbsp;</td>
     <td></td>
   </tr>
   <tr>
@@ -60,7 +60,7 @@
     <td>Lunch </td>
   </tr>
   <tr>
-    <td></td>
+    <td>&nbsp;&nbsp;</td>
     <td></td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@
     <td><span style="font-style:italic">SynBioBeta</span></td>
   </tr>
   <tr>
-    <td></td>
+    <td>&nbsp;&nbsp;</td>
     <td></td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@
     <td>Break-out session 3</td>
   </tr>
   <tr>
-    <td></td>
+    <td>&nbsp;&nbsp;</td>
     <td></td>
   </tr>
   <tr>
@@ -92,7 +92,7 @@
     <td><span style="font-style:italic">Cemvita Factory</span></td>
   </tr>
   <tr>
-    <td></td>
+    <td>&nbsp;&nbsp;</td>
     <td></td>
   </tr>
   <tr>
@@ -100,7 +100,7 @@
     <td>Break-out session 4</td>
   </tr>
   <tr>
-    <td></td>
+    <td>&nbsp;&nbsp;</td>
     <td></td>
   </tr>
   <tr>
@@ -112,7 +112,7 @@
     <td><span style="font-style:italic">University of New Mexico</span></td>
   </tr>
   <tr>
-    <td></td>
+    <td>&nbsp;&nbsp;</td>
     <td></td>
   </tr>
   <tr>
