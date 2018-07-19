@@ -1,3 +1,10 @@
+---
+title: Contact
+layout: collection
+menu_order: 5
+
+---
+
 <form id="contact-form" method="post" action="contact.php" role="form">
 
     <div class="messages"></div>
