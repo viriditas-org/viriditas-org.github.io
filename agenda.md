@@ -4,7 +4,7 @@ menu_order: 2
 
 ---
 
-<table class="tg">
+
   
   <tr>
     <td class="tg-up7l">9:00 AM</th>
@@ -123,4 +123,3 @@ menu_order: 2
     <td class="tg-ljh4">Reception by Aeronaut Brewery<br></td>
   </tr>
 
-</table>
