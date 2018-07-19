@@ -1,4 +1,4 @@
-  9:00 AM            Shannon Nangle, PhD   
+  9:00 AM           Shannon Nangle, PhD   
                     _Harvard University_   
 
   9:30 AM            Paul Wooster  
