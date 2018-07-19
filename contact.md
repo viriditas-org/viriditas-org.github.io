@@ -42,12 +42,7 @@ menu_order: 5
             <div class="col-md-12">
                 <input type="submit" class="btn btn-success btn-send" value="Send">
             </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <p class="text-muted"><strong>*</strong> These fields are required. Contact form template by <a href="http://bootstrapious.com" target="_blank">Bootstrapious</a>.</p>
-            </div>
-        </div>
+       
     </div>
 
 </form>
