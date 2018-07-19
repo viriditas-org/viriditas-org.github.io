@@ -87,7 +87,7 @@ menu_order: 2
     <td class="tg-ljh4"></td>
   </tr>
   <tr>
-    <td class="tg-up7l">3:45</td>
+    <td class="tg-up7l">3:45 PM</td>
     <td class="tg-ljh4">Tara Karimi, PhD</td>
   </tr>
   <tr>
