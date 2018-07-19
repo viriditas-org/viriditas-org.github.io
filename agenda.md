@@ -1,128 +1,118 @@
----
-title: Agenda
-menu_order: 2
-
----
-
-<table class="tg">
+<table>
   <tr>
-    <th class="tg-up7l"> </th>
-    <th class="tg-ljh4"> </th>
+    <th>9:00 AM</th>
+    <th>Shannon Nangle, PhD</th>
   </tr>
   <tr>
-    <td class="tg-up7l">9:00 AM</th>
-    <td class="tg-ljh4">Shannon Nangle, PhD</th>
+    <td></td>
+    <td><span style="font-style:italic">Harvard University</span></td>
   </tr>
   <tr>
-    <td class="tg-up7l"></td>
-    <td class="tg-ljh4"><span style="font-style:italic">Harvard University</span></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-up7l"></td>
-    <td class="tg-ljh4"></td>
+    <td>9:30 AM</td>
+    <td>Paul Wooster</td>
   </tr>
   <tr>
-    <td class="tg-up7l">9:30 AM</td>
-    <td class="tg-ljh4">Paul Wooster</td>
+    <td></td>
+    <td><span style="font-style:italic">SpaceX</span></td>
   </tr>
   <tr>
-    <td class="tg-up7l"></td>
-    <td class="tg-ljh4"><span style="font-style:italic">SpaceX</span></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-up7l"></td>
-    <td class="tg-ljh4"></td>
+    <td>10:00 AM</td>
+    <td>Break-out session 2</td>
   </tr>
   <tr>
-    <td class="tg-up7l">10:00 AM</td>
-    <td class="tg-ljh4">Break-out session 2</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-up7l"></td>
-    <td class="tg-ljh4"></td>
+    <td>10:15 AM</td>
+    <td>Shannon Rupert, PhD</td>
   </tr>
   <tr>
-    <td class="tg-up7l">10:15 AM</td>
-    <td class="tg-ljh4">Shannon Rupert, PhD</td>
+    <td></td>
+    <td><span style="font-style:italic">The Mars Society</span></td>
   </tr>
   <tr>
-    <td class="tg-up7l"></td>
-    <td class="tg-ljh4"><span style="font-style:italic">The Mars Society</span></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-up7l"></td>
-    <td class="tg-ljh4"></td>
+    <td>11:45 AM</td>
+    <td>Break-out session 2</td>
   </tr>
   <tr>
-    <td class="tg-up7l">11:45 AM</td>
-    <td class="tg-ljh4">Break-out session 2</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-up7l"></td>
-    <td class="tg-ljh4"></td>
+    <td>1:00 PM</td>
+    <td>Lunch </td>
   </tr>
   <tr>
-    <td class="tg-up7l">1:00 PM</td>
-    <td class="tg-ljh4">Lunch </td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-up7l"></td>
-    <td class="tg-ljh4"></td>
+    <td>2:00 PM</td>
+    <td>John Cumbers, PhD<br></td>
   </tr>
   <tr>
-    <td class="tg-up7l">2:00 PM</td>
-    <td class="tg-ljh4">John Cumbers, PhD<br></td>
+    <td></td>
+    <td><span style="font-style:italic">SynBioBeta</span></td>
   </tr>
   <tr>
-    <td class="tg-up7l"></td>
-    <td class="tg-ljh4"><span style="font-style:italic">SynBioBeta</span></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-up7l"></td>
-    <td class="tg-ljh4"></td>
+    <td>2:30 PM</td>
+    <td>Break-out session 3</td>
   </tr>
   <tr>
-    <td class="tg-up7l">2:30 PM</td>
-    <td class="tg-ljh4">Break-out session 3</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-up7l"></td>
-    <td class="tg-ljh4"></td>
+    <td>3:45 PM</td>
+    <td>Tara Karimi, PhD</td>
   </tr>
   <tr>
-    <td class="tg-up7l">3:45 PM</td>
-    <td class="tg-ljh4">Tara Karimi, PhD</td>
+    <td></td>
+    <td><span style="font-style:italic">Cemvita Factory</span></td>
   </tr>
   <tr>
-    <td class="tg-up7l"></td>
-    <td class="tg-ljh4"><span style="font-style:italic">Cemvita Factory</span></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-up7l"></td>
-    <td class="tg-ljh4"></td>
+    <td>4:15 PM</td>
+    <td>Break-out session 4</td>
   </tr>
   <tr>
-    <td class="tg-up7l">4:15 PM</td>
-    <td class="tg-ljh4">Break-out session 4</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-up7l"></td>
-    <td class="tg-ljh4"></td>
+    <td>5:30 PM</td>
+    <td>Luis Campos, PhD</td>
   </tr>
   <tr>
-    <td class="tg-up7l">5:30 PM</td>
-    <td class="tg-ljh4">Luis Campos, PhD</td>
+    <td></td>
+    <td><span style="font-style:italic">University of New Mexico</span></td>
   </tr>
   <tr>
-    <td class="tg-up7l"></td>
-    <td class="tg-ljh4"><span style="font-style:italic">University of New Mexico</span></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-up7l"></td>
-    <td class="tg-ljh4"></td>
-  </tr>
-  <tr>
-    <td class="tg-up7l">6:00 PM</td>
-    <td class="tg-ljh4">Reception by Aeronaut Brewery<br></td>
+    <td>6:00 PM</td>
+    <td>Reception by Aeronaut Brewery<br></td>
   </tr>
 </table>
