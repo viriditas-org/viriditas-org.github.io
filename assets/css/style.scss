@@ -85,6 +85,11 @@ small, .small {
    text-align: right;   
 }
   
+.btn-success:focus, .btn-success.focus {
+    -webkit-box-shadow: 0 0 0 0.2rem rgba(118,16,22,0.5);
+    box-shadow: 0 0 0 0.2rem rgba(118,16,22,0.5);
+  }
+  
 /* fonts */
 
 h1 {
