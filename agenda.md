@@ -1,7 +1,11 @@
 <table>
   <tr>
-    <th>9:00 AM</th>
-    <th>Shannon Nangle, PhD</th>
+    <th>&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;</th>
+  </tr>
+  <tr>
+    <td>9:00 AM</td>
+    <td>Shannon Nangle, PhD</td>
   </tr>
   <tr>
     <td></td>
