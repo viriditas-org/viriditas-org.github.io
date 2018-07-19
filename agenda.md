@@ -120,7 +120,7 @@ menu_order: 2
   </tr>
   <tr>
     <td class="tg-up7l">6:00 PM</td>
-    <td class="tg-ljh4">Reception sponsored by Aeronaut Brewery<br></td>
+    <td class="tg-ljh4">Reception by Aeronaut Brewery<br></td>
   </tr>
 
 </table>
