@@ -1,12 +1,11 @@
-<nav class="navbar navbar-expand-md transparent navbar-inverse navbar-right fixed-top">
-  <ul class="nav navbar-nav navbar-right">
-  <a class="navbar-brand" href="/">Viriditas</a>
+<nav class="navbar navbar-expand-md transparent navbar-inverse fixed-top">
+   <a class="navbar-brand" href="/">Viriditas</a>
  <!--- <a href="#" class="navbar-left"><img src="/logo.png"></a> --->
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-    <ul class="navbar-nav mr-auto">
+    <ul class="nav navbar-nav navbar-right">
       {%- assign sitepages = site.pages | where_exp: "item", "item.menu_order" | sort: "menu_order" -%}
       {% for sitepage in sitepages -%}
         <li class="nav-item {% if sitepage.url == page.url -%}active{%- endif %}">
