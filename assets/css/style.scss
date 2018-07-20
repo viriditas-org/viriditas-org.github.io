@@ -87,11 +87,16 @@ small, .small {
   
   
 .navbar-nav .active > .nav-link {
-    color: #76C099;
+    color: rgba(0,0,0,0);
 }
   
-.bg-dark {
+/* .bg-dark {
     background-color: #003946 !important;
+}
+ */ 
+
+ .navbar.transparent.navbar-inverse .navbar-inner {
+   background: rgba(0,0,0,0);
 }
   
 .footer {
