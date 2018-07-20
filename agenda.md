@@ -36,7 +36,7 @@ menu_order: 2
   </tr>
   <tr>
     <td>10:00 AM</td>
-    <td>Break-out session 2</td>
+    <td>Break-out session 1</td>
   </tr>
   <tr>
     <td>&nbsp;&nbsp;</td>
