@@ -43,7 +43,7 @@ menu_order: 2
     <td>&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td>10:15 AM</td>
+    <td>11:15 AM</td>
     <td>Shannon Rupert, PhD</td>
   </tr>
   <tr>
