@@ -1,12 +1,11 @@
 <nav class="navbar navbar-expand-md transparent navbar-inverse fixed-top">
+   <ul class="nav navbar-nav navbar-right">
    <a class="navbar-brand" href="/">Viriditas</a>
-
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-    <ul class="nav navbar-nav navbar-right">
-      {%- assign sitepages = site.pages | where_exp: "item", "item.menu_order" | sort: "menu_order" -%}
+          {%- assign sitepages = site.pages | where_exp: "item", "item.menu_order" | sort: "menu_order" -%}
       {% for sitepage in sitepages -%}
         <li class="nav-item {% if sitepage.url == page.url -%}active{%- endif %}">
           <a class="nav-link" href="{{ sitepage.url | relative_url }}">{{ sitepage.title | escape }}</a>
