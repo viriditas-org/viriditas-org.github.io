@@ -99,6 +99,10 @@ small, .small {
    background: rgba(0,0,0,0);
 }
   
+.navbar-brand {
+    font-size: 1.75rem;
+  }
+  
 .footer {
    position:absolute;
    bottom:0;
@@ -140,6 +144,9 @@ li {
   font-size: 1.25em;
   color: #fff4f3ff;
 }
-
+  
+html li {
+    font-size: 1.75em;
+  }
 }
   
