@@ -4,4 +4,4 @@ tagline: 'Creative Director, Ginkgo Bioworks'
 
 ---
 
-Christina's bio
+Christina Agapakis is a synthetic biologist, artist, and writer interested in the design and communication of new biotechnologies. She is creative director of Ginkgo BIoworks. 
