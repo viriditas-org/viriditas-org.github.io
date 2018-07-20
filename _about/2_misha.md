@@ -4,4 +4,4 @@ tagline: 'Senior Software Engineer and Computational Biologist, Ginkgo Bioworks'
 
 ---
 
-Misha's bios
+Misha's bio
