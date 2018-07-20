@@ -72,7 +72,7 @@ th, td {
 .jumbotron {
     padding: 1rem 2rem;
     margin-bottom: 2rem;
-    background-color: #76C099;
+    background-color: rgba(0,0,0,0);
     border-radius: 0;
 }  
   
@@ -87,7 +87,7 @@ small, .small {
   
   
 .navbar-nav .active > .nav-link {
-    color: rgba(0,0,0,0);
+    color: #ffffff;
 }
   
 /* .bg-dark {
@@ -105,17 +105,6 @@ small, .small {
    width:100%;
    height:50px;
    text-align: right;   
-}
-  
-.btn-success:focus, .btn-success.focus {
-    -webkit-box-shadow: 0 0 0 0.2rem rgba(118,16,22,0.5);
-    box-shadow: 0 0 0 0.2rem rgba(118,16,22,0.5);
-  }
- 
- .btn-success {
-    color: #fff;
-    background-color: rgba(118,16,22,1);
-    border-color: rgba(118,16,22,1);
 }
   
 /* fonts */
