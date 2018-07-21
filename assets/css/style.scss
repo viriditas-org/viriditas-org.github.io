@@ -17,6 +17,14 @@ html {
   
 }
   
+div.transbox {
+  margin: 30px;
+  background-color: #031A31;
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+  
 a {
     color: #7F1519;
 }
