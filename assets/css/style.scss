@@ -17,11 +17,11 @@ html {
   
 }
   
-div.transbox {
-  margin: 30px;
-  background-color: #031A31;
-  opacity: 0.5;
-  filter: alpha(opacity=50); /* For IE8 and earlier */
+.img-responsive {
+    height: auto;
+    width: auto;
+    max-height: 50px;
+    max-width: 50px;
 }
 
   
