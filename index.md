@@ -12,3 +12,5 @@ Boston, MA.**
 
 Viriditas is a joint effort by the Harvard and the Wyss Institute, the MIT Media Lab Space Exploration
 Initiative, and Ginkgo Bioworks.
+
+Our speakers include: Paul Wooster (SpaceX), Shannon Rupert (The Mars Society), John Cumbers (SynBioBeta), Tara Karimi (Cemvita Factory), and Luis Campos (University of New Mexico).
