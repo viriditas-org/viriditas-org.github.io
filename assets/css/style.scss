@@ -14,15 +14,14 @@ html {
     background-size: cover;
     background-attachment: fixed;
     background-color: #031A31;
-  
 }
   
-
-.navbar-brand {
-  max-height: 40px;
-  padding: 0;
+.navbar-brand>img {
+   max-height: 100%;
+   height: 100%;
+   width: auto;
+   margin: -10px;
 }
-
   
 a {
     color: #b50c12;
