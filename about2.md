@@ -1,6 +1,7 @@
 ---
 
-title: about us
+title: abouts
+layout: page
 menu_order: 6
 
 ----
