@@ -1,16 +1,15 @@
 ---
 
-title: abouts
+title: Abouts
 layout: page
 menu_order: 6
 
-----
-
+---
 
 <div class="container" id="tourpackages-carousel">
       
       <div class="row">
-        
+  
         <div class="col-xs-18 col-sm-6 col-md-3">
           <div class="thumbnail">
             <img src="http://placehold.it/500x300" alt="">
