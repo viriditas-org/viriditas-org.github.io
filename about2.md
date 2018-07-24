@@ -12,7 +12,7 @@ menu_order: 6
         
    <div class="col-xs-18 col-sm-6 col-md-3">
           <div class="thumbnail">
-            <img src="https://viriditas-org.github.io/photos/shannon.png"alt="">
+            <img src="https://viriditas-org.github.io/photos/shannon.png" alt="">
               <div class="caption">
                 <h4>Postdoctoral Reseach Fellow, Harvard</h4>
                 <p>Shannon is a postdoc in Pam Silver’s lab. Her lifelong ambition has been to facilitate a permanent human presence beyond Earth and plans to grow plant-human hybrids on Mars.</p>
