@@ -6,36 +6,61 @@ menu_order: 6
 
 ---
 
-<Grid>
-  <Row>
-    <Col xs={6} md={6}>
-      <Thumbnail src="https://viriditas-org.github.io/photos/shannon.png" alt="400x400">
-        <h3>Shannon Nangle, PhD</h3>
-        <p>Description</p>
+<div class="container" id="tourpackages-carousel">
       
-      </Thumbnail>
-    </Col>
-    
-    <Col xs={6} md={6}>
-      <Thumbnail src="/thumbnaildiv.png" alt="242x200">
-        <h3>Thumbnail label</h3>
-        <p>Description</p>
+   <div class="row">
         
-         </Thumbnail>
-    </Col>
-    <Col xs={6} md={6}>
-      <Thumbnail src="/thumbnaildiv.png" alt="242x200">
-        <h3>Thumbnail label</h3>
-        <p>Description</p>
+   <div class="col-xs-18 col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <img src="http://placehold.it/500x300" alt="">
+              <div class="caption">
+                <h4>Thumbnail label</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, soluta, eligendi doloribus sunt minus amet sit debitis repellat. Consectetur, culpa itaque odio similique suscipit</p>
+                <p><a href="#" class="btn btn-info btn-xs" role="button">Button</a> <a href="#" class="btn btn-default btn-xs" role="button">Button</a></p>
+            </div>
+          </div>
+        </div>
+
+   <div class="col-xs-18 col-sm-6 col-md-3">
+          <div class="thumbnail">
+            <img src="http://placehold.it/500x300" alt="">
+              <div class="caption">
+                <h4>Thumbnail label</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, soluta, eligendi doloribus sunt minus amet sit debitis repellat. Consectetur, culpa itaque odio similique suscipit</p>
+                <p><a href="#" class="btn btn-info btn-xs" role="button">Button</a> <a href="#" class="btn btn-default btn-xs" role="button">Button</a></p>
+            </div>
+          </div>
+        </div>
+        
+        
+  <!-- Force next columns to break to new line at md breakpoint and up -->
+  <div class="w-100 d-none d-md-block"></div>
+
+   <div class="col-xs-18 col-sm-6 col-md-3">
+        <div class="thumbnail">
+            <img src="http://placehold.it/500x300" alt="">
+              <div class="caption">
+                <h4>Thumbnail label</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, soluta, eligendi doloribus sunt minus amet sit debitis repellat. Consectetur, culpa itaque odio similique suscipit</p>
+                <p><a href="#" class="btn btn-info btn-xs" role="button">Button</a> <a href="#" class="btn btn-default btn-xs" role="button">Button</a></p>
+            </div>
+          </div>
+        </div>
+
+   <div class="col-xs-18 col-sm-6 col-md-3">
+       <div class="thumbnail">
+            <img src="http://placehold.it/500x300" alt="">
+              <div class="caption">
+                <h4>Thumbnail label</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, soluta, eligendi doloribus sunt minus amet sit debitis repellat. Consectetur, culpa itaque odio similique suscipit</p>
+                <p><a href="#" class="btn btn-info btn-xs" role="button">Button</a> <a href="#" class="btn btn-default btn-xs" role="button">Button</a></p>
+            </div>
+          </div>
+        </div>
+        
+  </div>
       
-      </Thumbnail>
-    </Col>
-    <Col xs={6} md={6}>
-      <Thumbnail src="/thumbnaildiv.png" alt="242x200">
-        <h3>Thumbnail label</h3>
-        <p>Description</p>
-        
-      </Thumbnail>
-    </Col>
-  </Row>
-</Grid>;
+</div>
+
+
+
