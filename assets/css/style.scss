@@ -29,6 +29,16 @@ a:hover {
     color: #fff8f2;
 }
   
+.thumbnail {
+    position: relative;
+    padding: 0px;
+    margin-bottom: 20px;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+  
 table, th, td {
    border: 0px solid black;
    padding-left: 50px;
