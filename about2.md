@@ -10,7 +10,7 @@ menu_order: 6
       
       <div class="row">
   
-        <div class="col-md-4">
+        <div class="col-md-6">
           <div class="thumbnail">
             <img src="http://placehold.it/500x300" alt="">
               <div class="caption">
@@ -21,7 +21,7 @@ menu_order: 6
           </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-6">
           <div class="thumbnail">
             <img src="http://placehold.it/500x300" alt="">
               <div class="caption">
@@ -32,7 +32,7 @@ menu_order: 6
           </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-6">
           <div class="thumbnail">
             <img src="http://placehold.it/500x300" alt="">
               <div class="caption">
@@ -43,7 +43,7 @@ menu_order: 6
           </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-6">
           <div class="thumbnail">
             <img src="https://viriditas-org.github.io/photos/ariel.png/" alt="">
               <div class="caption">
