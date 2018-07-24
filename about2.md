@@ -39,5 +39,4 @@ menu_order: 6
       </Thumbnail>
     </Col>
   </Row>
-</Grid>;
-
+</Grid>
