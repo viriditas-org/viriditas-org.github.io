@@ -1,8 +1,8 @@
 ---
 
-title: Abouts
+title: About
 layout: page
-menu_order: 6
+menu_order: 4
 
 ---
 
