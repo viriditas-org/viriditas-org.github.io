@@ -10,7 +10,7 @@ menu_order: 4
       
    <div class="row">
         
-   <div class="col-xs-18 col-sm-6 col-md-3">
+   <div class="col-xs-18 col-sm-6 col-md-6">
           <div class="thumbnail">
             <img src="https://viriditas-org.github.io/photos/shannon.png" alt="">
               <div class="caption">
@@ -21,7 +21,7 @@ menu_order: 4
           </div>
         </div>
 
-   <div class="col-xs-18 col-sm-6 col-md-3">
+   <div class="col-xs-18 col-sm-6 col-md-6">
           <div class="thumbnail">
             <img src="https://viriditas-org.github.io/photos/misha.png" alt="">
               <div class="caption">
@@ -33,10 +33,9 @@ menu_order: 4
         </div>
         
         
-  <!-- Force next columns to break to new line at md breakpoint and up -->
-  <div class="w-100 d-none d-md-block"></div>
-
-   <div class="col-xs-18 col-sm-6 col-md-3">
+  <div class="w-100"></div>
+  
+   <div class="col-xs-18 col-sm-6 col-md-6">
         <div class="thumbnail">
             <img src="https://viriditas-org.github.io/photos/christina.png" alt="">
               <div class="caption">
@@ -47,7 +46,7 @@ menu_order: 4
           </div>
         </div>
 
-   <div class="col-xs-18 col-sm-6 col-md-3">
+   <div class="col-xs-18 col-sm-6 col-md-6">
        <div class="thumbnail">
             <img src="https://viriditas-org.github.io/photos/ariel.png" alt="">
               <div class="caption">
