@@ -5,7 +5,7 @@ menu_order: 1
 
 ---
 
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 110rem;">
   <div class="card-body">
     
    <p class="">The structure of _Viriditas_ is modeled after the concept of an unconference,
