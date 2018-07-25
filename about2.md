@@ -14,8 +14,8 @@ menu_order: 6
           <div class="thumbnail">
             <img src="https://viriditas-org.github.io/photos/shannon.png" alt="">
               <div class="caption">
-                <h4>Postdoctoral Reseach Fellow, Harvard</h4>
-                <p>Shannon is a postdoc in Pam Silver’s lab. Her lifelong ambition has been to facilitate a permanent human presence beyond Earth and plans to grow plant-human hybrids on Mars.</p>
+                <h4>Shannon Nangle, PhD</h4>
+                <p>Shannon is a postdoc in Pam Silver’s lab at Harvard. Her lifelong ambition has been to facilitate a permanent human presence beyond Earth and plans to grow plant-human hybrids on Mars.</p>
               
             </div>
           </div>
