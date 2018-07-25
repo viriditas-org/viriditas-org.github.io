@@ -31,7 +31,7 @@ menu_order: 4
       </div>
         
         
-<div class="w-100 hidden-md-up"></div>  
+   <div class="w-100"></div> 
   
   
    <div class="col-xs-18 col-sm-6 col-md-6">
