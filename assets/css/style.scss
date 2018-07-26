@@ -6,38 +6,48 @@ html {
   body {
     height: 100%;
     font-size: 100%;
-    
+
     /* Background image */
-    background-image: url(/assets/img/ps-background.jpg);
+    background-image: url(/assets/img/background.jpg);
     background-position-x: center;
     background-position-y: top;
     background-size: cover;
     background-attachment: fixed;
     background-color: #031A31;
 }
-  
+
 .navbar-brand>img {
    max-height: 40px;
    margin: -5px;
 }
-  
+
 a {
     color: #b50c12;
 }
-  
+
 a:hover {
     color: #fff8f2;
 }
-  
+
 .card {
     position: relative;
     background-color: #FFFFFF;
 }
-  
+
 .panel-body {
-background:#FFFFFF;
+  background:#FFFFFF;
 }
-  
+
+.thumbnail {
+    position: relative;
+    padding: 0px;
+    margin-bottom: 20px;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
 table, th, td {
    border: 0px solid black;
    padding-left: 50px;
@@ -47,9 +57,9 @@ th, td {
     text-align: right;
     font-size: 1.25em;
 }
- 
+
 /*         */
-  
+
 .row {
    display: flex;
    flex-wrap: initial;
@@ -90,7 +100,7 @@ th, td {
 }
 
 /*         */
-  
+
 .jumbotron {
     padding: 1rem 2rem;
     margin-bottom: 2rem;
@@ -100,49 +110,49 @@ th, td {
     background-repeat: no-repeat;
     background-color: rgba(0,0,0,0);
     border-radius: 0;
-}  
-  
+}
+
 
 .text-muted {
     color: rgba(255,255,255,0.4) !important;
 }
-  
+
 small, .small {
     font-size: 100%;
     font-weight: 400;
 }
-  
+
  .nav a{
     font-size: 1.75em;
         }
- 
+
 .navbar-nav .active > .nav-link {
     color: #fff4f3;
 }
-  
+
 /* .bg-dark {
     background-color: #003946 !important;
 }
- */ 
+ */
 
  .navbar.transparent.navbar-inverse .navbar-inner {
    background: rgba(0,0,0,0);
 }
-  
+
 .navbar-brand {
     font-size: 2.05rem !important;
   }
-  
+
 .footer {
    position:absolute;
    bottom:0;
    width:100%;
    height:50px;
-   text-align: right;   
+   text-align: right;
 }
-  
+
 /* fonts */
-  
+
 .display-4 {
     font-size: 2.75rem;
 }
@@ -157,23 +167,23 @@ h2 {
   font-size: 1.5em;
   color: #fff8f2;
 }
- 
+
 
 p {
   font-size: 1.75em;
   color: #000000;
   margin-top: 2em;
 }
-  
+
 Footer p {
   font-size: 0.8em;
   color: #fff8f2;
  }
- 
+
 li {
   font-size: 1.25em;
   color: #000000;
 }
-  
+
 }
-  
+
