@@ -1,0 +1,26 @@
+---
+layout: page
+
+---
+
+{{ content }}
+
+{%- assign page_slug = page.url | split: "/" | last  -%}
+{%- assign items = site[page_slug] | where_exp: "item", "item.order" | sort: "order" -%}
+
+{% for item in items %}
+  {% cycle '<div class="row">', '' %}
+    <div class="col-lg">
+      <div class="card">
+        <img class="card-img-top" src="{{ item.img }}">
+        <div class="card-body">
+          <h5 class="card-title">{{ item.name }}</h5>
+          <p class="card-text">
+            {{ item.content }}
+          </p>
+          <a href="#" class="btn btn-primary">Contact</a>
+        </div>
+      </div>
+    </div>
+  {% cycle '', '</div><div class="mw-100"></div>' %}
+{% endfor %}
