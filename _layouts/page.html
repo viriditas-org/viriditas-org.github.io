@@ -2,18 +2,12 @@
 layout: default
 ---
 
-<header class="site-header" role="banner">
-{% include navbar.html %}
-</header>
+<main role="main" class="flex-fill">
+  <article class="page container text-light p-3 mb-5 bg-dark-transparent rounded">
+    <h1 class="page-title">{{ page.title | escape }}</h1>
 
-<main role="main">
-  <div class="container">
-    <article class="page">
-      <h1 class="page-title">{{ page.title | escape }}</h1>
-
-      <div class="page-content">
-        {{ content }}
-      </div>
-    </article>
-  </div>
+    <div class="page-content">
+      {{ content }}
+    </div>
+  </article>
 </main>

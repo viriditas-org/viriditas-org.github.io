@@ -1,80 +1,58 @@
 ---
 ---
 
-/* custom color variables */
+/* Custom variables */
 
-$color-navy:  #031a31;
-$color-red:   #b50c12;
-$color-cream: #fff8f2;
-$color-white: #ffffff;
-$color-white-muted: rgba(255,255,255,0.4);
+$color-light-transparent: rgba(248,249,250,0.4);
+$color-dark-transparent: rgba(12,23,53,0.5);
 
-/* restyling theme  */
+/* Custom classes */
+
+.bg-light-transparent {
+  background-color: $color-light-transparent;
+}
+.bg-dark-transparent {
+  background-color: $color-dark-transparent;
+}
+
+
+.bg-image {
+  background-image: url(/assets/img/background.jpg);
+  background-position-x: center;
+  background-position-y: top;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+
+/* Restyling theme  */
 html {
+  min-height: 100%;
   height: 100%;
   body {
     height: 100%;
-    font-size: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
 
-    /* Background image */
-    background-image: url(/assets/img/background.jpg);
-    background-position-x: center;
-    background-position-y: top;
-    background-size: cover;
-    background-attachment: fixed;
-    background-color: $color-navy;
+    display: flex;
+    flex-direction: column;
   }
 }
 
-a {
-  color: $color-red;
+main {
+  margin-top: 4.5rem;
+  padding: 1rem;
 }
 
-a:hover {
-  color: $color-cream;
-}
-
-.card {
-  position: relative;
-  background-color: $color-white;
-}
-
-.panel-body {
-  background: $color-white;
-}
-
-.text-muted {
-  color: $color-white-muted !important;
-}
-
-/* navbar */
-
-.nav a{
-  font-size: 1.75em;
-}
-
-.navbar-nav .active > .nav-link {
-  color: $color-cream;
+article {
+  p:last-child {
+    margin-bottom: 0;
+  }
 }
 
 .navbar-brand {
-  font-size: 2.05rem !important;
-
   img {
-    max-height: 40px;
-    margin: -5px;
+    width: 40px;
   }
 }
-
-/* agenda */
-
-table.agenda {
-  border: 0px solid black;
-  padding-left: 50px;
-
-  th, td {
-    text-align: right;
-    font-size: 1.25em;
-  }
-}
-

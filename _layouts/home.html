@@ -2,33 +2,17 @@
 layout: default
 ---
 
-<main role="main">
+<main role="main" class="flex-fill">
   <section id="title">
-  <div class="jumbotron">
-    <div class="container">
-      <h1 class="display-3">{{ site.title | default: site.github.owner_name }}</h1>
+    <div class="container my-5">
+      <h1 class="display-2 text-primary">{{ site.title | default: site.github.owner_name }}</h1>
       <h3>
         <small class="text-muted">{{ site.description | default: site.github.project_tagline }}</small>
       </h3>
     </div>
-  </div>
   </section>
 
-  <div class="container">
+  <article class="home container text-light p-3 mb-5 bg-dark-transparent rounded">
     {{ content }}
-  </div>
-
-  <div class="container">
-   <div class="row">
-    {%- assign sitepages = site.pages | where_exp: "item", "item.menu_order" | sort: "menu_order" -%}
-    {% for sitepage in sitepages %}
-      {% if sitepage.title and sitepage.url != page.url %}
-        <div class="col">
-          <h2 class="display-4"><a href="{{ sitepage.url | relative_url }}">{{ sitepage.title | escape }}</a></h2>
-        </div>
-      {% endif %}
-    {% endfor %}
-   </div>
-  </div>
-
+  </article >
 </main>
