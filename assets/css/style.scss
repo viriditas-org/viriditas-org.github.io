@@ -1,10 +1,12 @@
 ---
 ---
 
+
 /* Custom variables */
 
 $color-light-transparent: rgba(248,249,250,0.4);
 $color-dark-transparent: rgba(12,23,53,0.5);
+
 
 /* Custom classes */
 
@@ -14,7 +16,6 @@ $color-dark-transparent: rgba(12,23,53,0.5);
 .bg-dark-transparent {
   background-color: $color-dark-transparent;
 }
-
 
 .bg-image {
   background-image: url(/assets/img/background.jpg);
@@ -26,6 +27,7 @@ $color-dark-transparent: rgba(12,23,53,0.5);
 
 
 /* Restyling theme  */
+
 html {
   min-height: 100%;
   height: 100%;
@@ -53,6 +55,18 @@ article {
 
 .navbar-brand {
   img {
-    width: 40px;
+    width: 1.5rem;
+    margin-left: 0.5rem;
+  }
+}
+
+
+/* Styling custom classes */
+.main-title {
+  margin: 8rem auto;
+  img {
+    width: 192px;
+    display: block;
+    margin: auto;
   }
 }

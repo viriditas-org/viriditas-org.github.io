@@ -3,16 +3,25 @@ layout: default
 ---
 
 <main role="main" class="flex-fill">
-  <section id="title">
-    <div class="container my-5">
-      <h1 class="display-2 text-primary">{{ site.title | default: site.github.owner_name }}</h1>
-      <h3>
-        <small class="text-muted">{{ site.description | default: site.github.project_tagline }}</small>
-      </h3>
+  <section id="title" class="main-title">
+    <div class="container my-3">
+      <img src="/assets/img/favicon/favicon-310.png" class="viriditas-logo align-baseline" alt="">
+      <h1 class="display-2 centered text-primary text-md-center">{{ site.title | default: site.github.owner_name }}</h1>
+      <div class="text-warning h5 text-md-center"><em>{{ site.description | default: site.github.project_tagline }}</em></div>
+
+
     </div>
   </section>
 
-  <article class="home container text-light p-3 mb-5 bg-dark-transparent rounded">
-    {{ content }}
-  </article >
+  <div class="container">
+    <div class="row">
+      <div class="col-md"></div>
+      <div class="col-lg-6">
+        <article class="home text-light p-3 mb-5 bg-dark-transparent rounded">
+          {{ content }}
+        </article >
+      </div>
+      <div class="col-md"></div>
+    </div>
+  </div>
 </main>
