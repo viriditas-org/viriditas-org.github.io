@@ -10,14 +10,14 @@ layout: page
 
 {% for item in items %}
   {% cycle '<div class="card-deck mb-3">', '' %}
-      <div class="card bg-transparent">
+      <div class="card bg-transparent border-0">
         <img class="card-img w-50 mb-2 mx-auto" src="{{ item.img }}">
-        <div class="card-header bg-light">
-          <h5 class="card-title">{{ item.name }}</h5></div>
-        <div class="card-body bg-light">
-          {{ item.content }}
+        <div class="card-body bg-light-transparent text-dark rounded">
+          <h5 class="card-title">{{ item.name }}</h5>
+          <p class=card-text">
+            {{ item.content }}
+          </p>
         </div>
-        <div class="card-footer bg-light"></div>
       </div>
   {% cycle '', '</div><div class="mw-100"></div>' %}
 {% endfor %}
