@@ -1,4 +1,5 @@
 ---
+
 title: Agenda
 layout: page
 menu_order: 3
@@ -6,7 +7,7 @@ side: left
 
 ---
 
-The following is the planned agenda for the workshop on October 20<sup>th</sup>, 2018.
+The *Viriditas* workshop will be held at Ginkgo Bioworks, [27 Drydock Ave, Floor 8, Boston, MA 02210](https://goo.gl/maps/bNCXeFHLMHk) on October 20<sup>th</sup>, 2018.
 
 <table class="agenda">
   <tr>
@@ -15,7 +16,7 @@ The following is the planned agenda for the workshop on October 20<sup>th</sup>,
       <ul class="event-info">
         <li class="event-info-name">Introduction</li>
         <li class="event-info-speaker"><a class="scroll-smooth" href="#organizers-shannon">Shannon Nangle, Ph.D.</a></li>
-        <li class="event-info-association">Harvard University</li>
+        <li class="event-info-association"><a href="https://silver.med.harvard.edu/">Harvard University</a></li>
       </ul>
     </td>
   </tr>
@@ -25,7 +26,7 @@ The following is the planned agenda for the workshop on October 20<sup>th</sup>,
       <ul class="event-info">
         <li class="event-info-name">Invited Talk</li>
         <li class="event-info-speaker"><a class="scroll-smooth" href="#speakers-wooster">Paul Wooster</a></li>
-        <li class="event-info-association">SpaceX</li>
+        <li class="event-info-association"><a href="https://www.spacex.com/">SpaceX</a></li>
       </ul>
     </td>
   </tr>
@@ -43,7 +44,7 @@ The following is the planned agenda for the workshop on October 20<sup>th</sup>,
       <ul class="event-info">
         <li class="event-info-name">Invited Talk</li>
         <li class="event-info-speaker"><a class="scroll-smooth" href="#speakers-rupert">Shannon Rupert, Ph.D.</a></li>
-        <li class="event-info-association">The Mars Society</li>
+        <li class="event-info-association"><a href="http://www.marssociety.org/">The Mars Society</a></li>
       </ul>
     </td>
   </tr>
@@ -69,7 +70,7 @@ The following is the planned agenda for the workshop on October 20<sup>th</sup>,
       <ul class="event-info">
         <li class="event-info-name">Invited Talk</li>
         <li class="event-info-speaker"><a class="scroll-smooth" href="#speakers-cumbers">John Cumbers, Ph.D.</a></li>
-        <li class="event-info-association">SynBioBeta</li>
+        <li class="event-info-association"><a href="https://synbiobeta.com/">SynBioBeta</a></li>
       </ul>
     </td>
   </tr>
@@ -87,7 +88,7 @@ The following is the planned agenda for the workshop on October 20<sup>th</sup>,
       <ul class="event-info">
         <li class="event-info-name">Invited Talk</li>
         <li class="event-info-speaker"><a class="scroll-smooth" href="#speakers-karimi">Tara Karimi, Ph.D.</a></li>
-        <li class="event-info-association">Cemvita Factory</li>
+        <li class="event-info-association"><a href="https://www.cemvitafactory.com/">Cemvita Factory</a></li>
       </ul>
     </td>
   </tr>
@@ -105,7 +106,7 @@ The following is the planned agenda for the workshop on October 20<sup>th</sup>,
       <ul class="event-info">
         <li class="event-info-name">Closing Invited Talk</li>
         <li class="event-info-speaker"><a class="scroll-smooth" href="#speakers-campos">Luis Campos, Ph.D.</a></li>
-        <li class="event-info-association">University of New Mexico</li>
+        <li class="event-info-association"><a href="https://history.unm.edu/people/faculty/profile/luis-campos.html">University of New Mexico</a></li>
       </ul>
     </td>
   </tr>
@@ -114,7 +115,7 @@ The following is the planned agenda for the workshop on October 20<sup>th</sup>,
     <td>
       <ul class="event-info">
         <li class="event-info-name">Reception</li>
-        <li class="event-info-association">catered by Aeronaut Brewery</li>
+        <li class="event-info-association">catered by <a href="https://www.aeronautbrewing.com/">Aeronaut Brewing Co.</a></li>
       </ul>
     </td>
   </tr>

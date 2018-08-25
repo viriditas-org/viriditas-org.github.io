@@ -1,7 +1,8 @@
 ---
+
 name: 'Christina Agapakis, Ph.D.'
-tagline: 'Creative Director, Ginkgo Bioworks'
-img: /photos/christina.png
+tagline: 'Creative Director, <a href="https://www.ginkgobioworks.com/">Ginkgo Bioworks</a>'
+img: photos/organizers/christina.png
 order: 3
 
 ---

@@ -1,6 +1,8 @@
 ---
+
 name: 'Luis Campos, PhD'
-tagline: 'Associate Professor, University of New Mexico'
+tagline: 'Associate Professor, <a href="https://history.unm.edu/people/faculty/profile/luis-campos.html">University of New Mexico</a>'
+img: photos/speakers/campos.png
 order: 5
 
 ---
@@ -11,5 +13,6 @@ and in the history of science, Campos’ scholarship brings together archival di
 contemporary fieldwork at the intersection of biology and society. He has written widely on the
 history of genetics and is the author of _Radium and the Secret of Life_ (2015), and co-editor of
 _Making Mutations: Objects, Practices, Contexts_ (2010). Campos also serves as Secretary of the
-History of Science Society, "the world’s largest society dedicated to understanding science,
-technology, medicine, and their interactions with society in their historical context."
+[History of Science Society](https://hssonline.org/), the "world’s largest society dedicated to
+understanding science, technology, medicine, and their interactions with society in their historical
+context."

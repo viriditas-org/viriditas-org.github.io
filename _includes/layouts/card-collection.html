@@ -4,19 +4,22 @@
   {%- assign page_slug = include.title | slugify -%}
   {%- assign items = site[page_slug] | where_exp: "item", "item.order" | sort: "order" -%}
 
-  {% for item in items %}
-    {% cycle '<div class="card-deck mb-3">', '' %}
-      <div id="{{ page_slug }}-{{ item.slug }}" class="card bg-transparent border-0">
-        <img class="card-img w-50 mb-2 mx-auto" src="{{ item.img }}" />
-        <div class="card-body bg-light-transparent text-dark rounded">
-          <h5 class="card-title">{{ item.name }}</h5>
-          <p class="card-text">
-            {{ item.content }}
-          </p>
+  <div class="collection">
+    <div class="card-columns">
+      {% for item in items %}
+        <div id="{{ page_slug }}-{{ item.slug }}" class="card rounded-0 shadow-sm border-0">
+          <img class="card-img-top rounded-0" src="/assets/img/{{ item.img }}" />
+          <div class="card-body">
+            <h5 class="card-title">{{ item.name }}</h5>
+            <p class="card-text"><small class="text-muted">{{ item.tagline }}</small></p>
+            <p class="card-text">
+              {{ item.content }}
+            </p>
+          </div>
         </div>
-      </div>
-    {% cycle '', '</div><div class="mw-100"></div>' %}
-  {% endfor %}
+      {% endfor %}
+    </div>
+  </div>
 {% endcapture %}
 
 {% include layouts/page.html title=include.title content=collection_content %}

@@ -1,6 +1,7 @@
 ---
 name: Paul Wooster
-tagline: 'Lead, Technical Development Mars Architecture and Vehicles, [SpaceX](https://www.spacex.com/)'
+tagline: 'Lead, Technical Development Mars Architecture and Vehicles, <a href="https://www.spacex.com/">SpaceX</a>'
+img: photos/speakers/wooster.jpeg
 order: 1
 
 ---
@@ -13,9 +14,9 @@ design, fault tolerance, and vehicle performance associated with Dragon’s miss
 International Space Station.
 
 Since joining SpaceX in 2007, Paul has led the development of a diverse set of capabilities,
-including space-to-space communications, relative navigation, and proximity operations with the ISS.
-He previously served as a Research Scientist in the Aero/Astro department at the Massachusetts
-Institute of Technology, where he also received Bachelor’s and Master’s degrees in aerospace
-engineering. His research at MIT included the design and evaluation of a wide range of human
-exploration system architectures and development of strategies for affordable human Moon and Mars
-exploration.
+including space-to-space communications, relative navigation, and proximity operations with the
+<abbr title="International Space Station">ISS</abbr>. He previously served as a Research Scientist
+in the Aero/Astro department at the Massachusetts Institute of Technology, where he also received
+Bachelor’s and Master’s degrees in aerospace engineering. His research at MIT included the design
+and evaluation of a wide range of human exploration system architectures and development of
+strategies for affordable human Moon and Mars exploration.

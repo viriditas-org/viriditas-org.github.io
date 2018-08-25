@@ -1,8 +1,10 @@
 ---
+
 title: Format
 layout: page
 menu_order: 2
 side: right
+
 ---
 
 The structure of *Viriditas* is modeled after the concept of an [unconference](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003905),
