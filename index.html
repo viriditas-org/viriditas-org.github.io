@@ -1,0 +1,28 @@
+---
+
+title: Home
+layout: default
+
+---
+<main role="main" class="flex-fill">
+  <section id="title" class="section-title bg-image">
+    <div class="jumbotron jumbotron-fluid bg-transparent">
+      <div class="container title-main">
+        <img src="/assets/img/favicon/favicon-310.png" class="viriditas-logo align-baseline" alt="">
+        <h1 class="display-2 centered text-center">{{ site.title | default: site.github.owner_name }}</h1>
+        <hr class="shadow">
+        <div class="text-white h5 text-center"><em>{{ site.description | default: site.github.project_tagline }}</em></div>
+      </div>
+    </div>
+    <footer class="text-center">
+      <a href="#about" role="button" class="btn btn-lg btn-link scroll-smooth more-arrow text-light">
+        <i class="fa fa-angle-double-down fa-5x" aria-hidden="true"></i>
+      </a>
+    </footer>
+  </section>
+
+  {%- assign sections = site.sections | sort: "menu_order" -%}
+  {% for section in sections -%}
+    {% include layouts/{{ section.layout }}.html title=section.title content=section.content side=section.side %}
+  {%- endfor %}
+</main>

@@ -1,0 +1,29 @@
+{% assign slug = include.title | slugify %}
+<section id="{{ slug }}" class="section-{{ slug }}">
+  <div class="jumbotron jumbotron-fluid">
+    <div class="container">
+      <!--
+        If we specify a side, only includ the top-title in collapsed mode.
+        If we don't specify a side, inclde the top-title every time
+      --!>
+      {% if include.side == 'left' or include.side == 'right' %}
+        <div class="row d-xl-none ">
+          <h1 class="page-title display-1">{{ include.title | escape }}</h1>
+        </div>
+      {% else %}
+         <h1 class="page-title display-1">{{ include.title | escape }}</h1>
+      {% endif %}
+      <div class="row">
+        {% if include.side == 'left' %}
+          <h1 class="col-4 d-none d-xl-block page-title display-1 left">{{ include.title | escape }}</h1>
+        {% endif %}
+        <article class="col lead">
+          {{ include.content }}
+        </article>
+        {% if include.side == 'right' %}
+          <h1 class="col-4 d-none d-xl-block page-title display-1 right">{{ include.title | escape }}</h1>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,23 +1,5 @@
 ---
-layout: page
-
+layout: default
 ---
 
-{{ content }}
-
-{%- assign page_slug = page.url | split: "/" | last  -%}
-{%- assign items = site[page_slug] | where_exp: "item", "item.order" | sort: "order" -%}
-
-{% for item in items %}
-  {% cycle '<div class="card-deck mb-3">', '' %}
-      <div class="card bg-transparent border-0">
-        <img class="card-img w-50 mb-2 mx-auto" src="{{ item.img }}">
-        <div class="card-body bg-light-transparent text-dark rounded">
-          <h5 class="card-title">{{ item.name }}</h5>
-          <p class=card-text">
-            {{ item.content }}
-          </p>
-        </div>
-      </div>
-  {% cycle '', '</div><div class="mw-100"></div>' %}
-{% endfor %}
+{% include layouts/card-collection.html title=page.title content=page.content %}

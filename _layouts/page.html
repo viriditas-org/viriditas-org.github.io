@@ -2,12 +2,4 @@
 layout: default
 ---
 
-<main role="main" class="flex-fill">
-  <article class="page container text-light p-3 mb-5 bg-dark-transparent rounded">
-    <h1 class="page-title display-3">{{ page.title | escape }}</h1>
-
-    <div class="page-content">
-      {{ content }}
-    </div>
-  </article>
-</main>
+{% include layouts/page.html title=page.title content=page.content side=page.side %}

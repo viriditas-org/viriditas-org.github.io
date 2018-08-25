@@ -1,8 +1,7 @@
 ---
-
-title: About
+title: Speakers
 layout: card-collection
-menu_order: 4
+menu_order: 5
 
 ---
 

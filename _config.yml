@@ -7,8 +7,9 @@ description: Engineering Biology for Space Exploration
 # Speaker and organizer data are collections, rather than
 # individual summaries
 collections:
+  sections:
   speakers:
-  about:
+  organizers:
 
 # Jekyll Settings
 exclude:

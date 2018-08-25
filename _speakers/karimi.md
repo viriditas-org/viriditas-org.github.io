@@ -1,6 +1,7 @@
 ---
 name: 'Tara Karimi, PhD'
 tagline: 'Founder and CEO, Cemvita Factories'
+order: 4
 
 ---
 

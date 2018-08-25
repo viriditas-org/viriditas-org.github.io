@@ -2,19 +2,21 @@
 ---
 
 
-/* Custom variables */
+/** Custom variables **/
 
 $color-light-transparent: rgba(248,249,250,0.9);
 $color-dark-transparent: rgba(12,23,53,0.5);
+$color-water: #3d8787;
 
 
-/* Custom classes */
+/** Custom classes **/
 
 .bg-light-transparent {
   background-color: $color-light-transparent;
 }
 .bg-dark-transparent {
   background-color: $color-dark-transparent;
+  background-blend-mode: multiply;
 }
 
 .bg-image {
@@ -22,33 +24,48 @@ $color-dark-transparent: rgba(12,23,53,0.5);
   background-position-x: center;
   background-position-y: top;
   background-size: cover;
-  background-attachment: fixed;
+}
+
+.bg-swoosh {
+  background-image: url(/assets/img/swoosh.png);
+  background-position-x: 80%;
+  background-position-y: center;
+  background-size: 200%;
+  background-repeat: no-repeat;
 }
 
 
-/* Restyling theme  */
+/** Restyling theme  **/
+
+a {
+  color: $color-water;
+}
+a:hover {
+  color: var(--primary);
+}
 
 html {
   min-height: 100%;
   height: 100%;
+  padding: 0;
   body {
     height: 100%;
     width: 100%;
-    position: absolute;
-    top: 0;
+    position: relative;
 
     display: flex;
     flex-direction: column;
   }
 }
 
-main {
-  margin-top: 4.5rem;
-  padding: 1rem;
-}
-
 article {
   p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+section {
+  .jumbotron {
     margin-bottom: 0;
   }
 }
@@ -61,16 +78,121 @@ article {
 }
 
 
-/* Styling custom classes */
-.main-title {
-  margin: 8rem auto;
-  img {
-    width: 192px;
-    display: block;
-    margin: auto;
+/** Styling custom elements **/
+
+/* Main title */
+.section-title {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  .title-main {
+    img {
+      width: 192px;
+      display: block;
+      margin: auto;
+    }
+    h1 {
+      text-transform: uppercase;
+      font-weight: bold;
+      color: $color-water;
+    }
+    hr {
+      border-color: white;
+      width: 80%;
+    }
   }
-  h1 {
-    text-transform: uppercase;
-    font-weight: bold;
+
+  footer {
+    display: block;
+    position: absolute;
+    bottom: 1em;
+    width: 100%;
+  }
+}
+
+/* Sections on the front page */
+/* When rendered on an individual page, they all look the same */
+main {
+  section {
+    .jumbotron {
+      background-color: var(--secondary);
+
+      .page-title {
+        color: var(--primary);
+      }
+      h1 {
+        padding: 3rem;
+      }
+      h1.right {
+        border-left: solid 1px var(--primary);
+      }
+      h1.left {
+        border-right: solid 1px var(--primary);
+      }
+    }
+  }
+
+  .section-about {
+    .page-title {
+      display: none;
+    }
+    .jumbotron {
+      background-color: var(--light);
+    }
+    article {
+      text-align: center;
+    }
+  }
+
+  .section-format {
+    .jumbotron {
+      @extend .bg-swoosh;
+    }
+  }
+
+  .section-agenda {
+    .jumbotron {
+      background-color: var(--light);
+    }
+  }
+
+  .section-register {
+    .jumbotron {
+      @extend .bg-image;
+      color: var(--white);
+    }
+  }
+
+  .section-organizers {
+    .jumbotron {
+      background-color: var(--light);
+    }
+  }
+}
+
+.agenda {
+  .event-time {
+    vertical-align: top;
+    font-weight: normal;
+    color: var(--primary);
+  }
+  .event-info {
+    list-style: none;
+    .event-info-name {
+      color: var(--primary);
+    }
+    .event-info-speaker {
+      a, a:visited {
+        color: var(--info);
+      }
+      a:hover {
+        color: $color-water;
+      }
+    }
+    .event-info-association {
+      font-style: italic;
+    }
   }
 }

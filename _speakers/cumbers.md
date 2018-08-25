@@ -1,6 +1,7 @@
 ---
 name: 'John Cumbers, PhD'
 tagline: 'Founder, SynBioBeta'
+order: 3
 
 ---
 
