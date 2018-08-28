@@ -99,11 +99,20 @@ section {
       width: 192px;
       display: block;
       margin: auto;
+      @media (max-width: 370px) {
+        margin-top: 4rem;
+      }
     }
     h1 {
       text-transform: uppercase;
       font-weight: bold;
       color: $color-water;
+      padding: unset;
+    }
+    h1.display-2 {
+      @media (max-width: 370px) {
+        font-size: 4rem;
+      }
     }
     hr {
       border-color: white;
@@ -111,12 +120,6 @@ section {
     }
   }
 
-  footer {
-    display: block;
-    position: absolute;
-    bottom: 1em;
-    width: 100%;
-  }
 }
 
 /* Sections on the front page */
@@ -128,14 +131,16 @@ main {
 
       .page-title {
         color: var(--primary);
+        padding: 3rem 0.5rem;
+        @media (max-width: 412px) {
+          font-size: 21vw;
+        }
       }
-      h1 {
-        padding: 3rem;
-      }
-      h1.right {
+      .page-title.right {
         border-left: solid 1px var(--primary);
       }
-      h1.left {
+      .page-title.left {
+        text-align: right;
         border-right: solid 1px var(--primary);
       }
     }
