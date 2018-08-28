@@ -19,7 +19,7 @@ $(function () {
       event.preventDefault();
       scrollTop = $(hash).offset().top - navHeight;
 
-      $('html')
+      $('html, body')
         .animate({ scrollTop: scrollTop }, scrollTime)
         .promise()
         .then(function () {
