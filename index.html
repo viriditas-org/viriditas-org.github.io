@@ -23,6 +23,6 @@ layout: default
 
   {%- assign sections = site.sections | sort: "menu_order" -%}
   {% for section in sections -%}
-    {% include layouts/{{ section.layout }}.html title=section.title content=section.content side=section.side %}
+    {% include section_layouts/{{ section.section_layout }}.html title=section.title content=section.content side=section.side %}
   {%- endfor %}
 </main>

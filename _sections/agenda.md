@@ -1,7 +1,7 @@
 ---
 
 title: Agenda
-layout: page
+section_layout: default
 menu_order: 3
 side: left
 

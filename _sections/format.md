@@ -1,8 +1,8 @@
 ---
 
 title: Format
-layout: page
 menu_order: 2
+section_layout: default
 side: right
 
 ---

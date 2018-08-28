@@ -1,8 +1,8 @@
 ---
 
 title: Register
-layout: page
 menu_order: 4
+section_layout: default
 side: right
 
 ---

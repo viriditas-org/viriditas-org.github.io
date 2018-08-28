@@ -1,7 +1,7 @@
 ---
 
 title: Organizers
-layout: card-collection
 menu_order: 6
+section_layout: card-collection
 
 ---

@@ -1,7 +1,7 @@
 ---
 
 title: About
-layout: page
+section_layout: default
 menu_order: 1
 
 ---
