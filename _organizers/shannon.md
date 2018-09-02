@@ -1,7 +1,7 @@
 ---
 
 name: 'Shannon Nangle, Ph.D.'
-tagline: 'Postdoctoral Reseach Fellow, Harvard'
+tagline: 'Postdoctoral Research Fellow, Harvard'
 img: photos/organizers/shannon.png
 order: 1
 
