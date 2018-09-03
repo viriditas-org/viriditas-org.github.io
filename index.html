@@ -6,14 +6,15 @@ layout: default
 ---
 <main role="main" class="flex-fill">
 
-  <section id="title" class="section-title bg-image">
-    <div class="jumbotron jumbotron-fluid bg-transparent flex-grow-1 d-flex flex-column
-      justify-content-center">
+  <section id="title" class="section-title bg-transparent">
+    <div class="jumbotron jumbotron-fluid bg-transparent flex-grow-1 d-flex flex-column justify-content-center">
       <div class="container title-main">
         <img src="/assets/img/favicon/favicon-310.png" class="viriditas-logo align-baseline" alt="">
         <h1 class="display-2 centered text-center">{{ site.title | default: site.github.owner_name }}</h1>
         <hr class="shadow">
-        <div class="text-white h5 text-center"><em>{{ site.description | default: site.github.project_tagline }}</em></div>
+        <div class="text-white h5 text-center">
+          <em>{{ site.description | default: site.github.project_tagline }}</em>
+        </div>
       </div>
     </div>
     <footer class="text-center">

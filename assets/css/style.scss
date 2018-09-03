@@ -24,6 +24,7 @@ $color-water: #207784;
   background-position-x: center;
   background-position-y: top;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .bg-swoosh {
@@ -87,41 +88,6 @@ section {
 
 /** Styling custom elements **/
 
-/* Main title */
-.section-title {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-
-  .title-main {
-    img {
-      width: 192px;
-      display: block;
-      margin: auto;
-      @media (max-width: 370px) {
-        margin-top: 4rem;
-      }
-    }
-    h1 {
-      text-transform: uppercase;
-      font-weight: bold;
-      color: $color-water;
-      padding: unset;
-    }
-    h1.display-2 {
-      @media (max-width: 370px) {
-        font-size: 4rem;
-      }
-    }
-    hr {
-      border-color: white;
-      width: 80%;
-    }
-  }
-
-}
-
 /* Sections on the front page */
 /* When rendered on an individual page, they all look the same */
 main {
@@ -142,6 +108,46 @@ main {
       .page-title.left {
         text-align: right;
         border-right: solid 1px var(--primary);
+      }
+    }
+
+    article.content {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
+
+  /* Main title */
+  .section-title {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    .title-main {
+      img {
+        width: 192px;
+        display: block;
+        margin: auto;
+        @media (max-width: 370px) {
+          margin-top: 4rem;
+        }
+      }
+      h1 {
+        text-transform: uppercase;
+        font-weight: bold;
+        color: $color-water;
+        padding: unset;
+      }
+      h1.display-2 {
+        @media (max-width: 370px) {
+          font-size: 4rem;
+        }
+      }
+      hr {
+        border-color: white;
+        width: 80%;
       }
     }
   }
