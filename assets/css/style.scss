@@ -188,6 +188,16 @@ main {
       background-color: var(--light);
     }
   }
+
+  .section-sponsors {
+    .jumbotron {
+      background-color: var(--light);
+    }
+
+    img {
+      height: 100px;
+    }
+  }
 }
 
 .agenda {
