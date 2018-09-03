@@ -9,7 +9,7 @@ side: right
 
 The structure of *Viriditas* is modeled after the concept of an [unconference](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003905),
 which prioritizes attention and engagement with the partcipants. It will consist of four technical
-talks, interspersed with breakout sessions of 8 -- 10 people each to brainstorm ideas along three
+talks, interspersed with breakout sessions of 8--10 people each to brainstorm ideas along three
 tracks.
 
 After each talk, the participants can select which track is most interesting and join a breakout
