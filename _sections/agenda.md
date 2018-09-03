@@ -61,6 +61,8 @@ The *Viriditas* workshop will be held at Ginkgo Bioworks, [27 Drydock Ave, Floor
     <td>
       <ul class="event-info">
         <li class="event-info-name">Lunch</li>
+        <li class="event-info-association">catered by <a href="https://flourbakery.com/">Flour</a></li>
+
       </ul>
     </td>
   </tr>
