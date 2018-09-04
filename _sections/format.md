@@ -25,4 +25,5 @@ stronger network of those who seek cross-disciplinary collaborations on the futu
 exploration and that *Viriditas* will nucleate the formation of a more stable community of
 space-inspired biologists.
 
-And finally the name *Viriditas* is a reference to a concept in Kim Stanley Robinson's Mars Trilogy: "All these conditions make survival for living things difficult in the extreme. But life is tough and adaptable, it is the green force viriditas, pushing into the universe." -*Green Mars*
+The name *Viriditas* is inspired from a concept in Kim Stanley Robinson's *Mars Trilogy*: 
+"All these conditions [on Mars] make survival for living things difficult in the extreme. But life is tough and adaptable, it is the green force viriditas, pushing into the universe." -*Green Mars*
