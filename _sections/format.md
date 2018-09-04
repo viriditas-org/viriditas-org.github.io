@@ -24,3 +24,5 @@ into a review article and white paper that serve as a template for future study.
 stronger network of those who seek cross-disciplinary collaborations on the future of space
 exploration and that *Viriditas* will nucleate the formation of a more stable community of
 space-inspired biologists.
+
+And finally the name *Viriditas* is a reference to a concept in Kim Stanley Robinson's Mars Trilogy: "All these conditions make survival for living things difficult in the extreme. But life is tough and adaptable, it is the green force viriditas, pushing into the universe." -*Green Mars*
