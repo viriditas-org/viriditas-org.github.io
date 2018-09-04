@@ -12,6 +12,8 @@ side: right
 
 [![Harvard Medical School](/assets/img/sponsors/harvard.png)](https://hms.harvard.edu/)
 
+[![Harvard Systems Biology Department](/assets/img/sponsors/sysbio.png)(https://sysbio.med.harvard.edu/)
+
 [![Wyss Institute for Biologically Inspired Engineering](/assets/img/sponsors/wyss.png)](https://wyss.harvard.edu/)
 
 [![MIT Media Lab](/assets/img/sponsors/medialab.png)](https://www.media.mit.edu/)
