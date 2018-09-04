@@ -12,6 +12,6 @@ industry, academia, and government who are interested in applying synthetic biol
 exploration. The workshop will be a full-day event on **October 20<sup>th</sup>, 2018 at [Ginkgo
 Bioworks in Boston, MA](https://goo.gl/maps/bNCXeFHLMHk).**
 
-Viriditas is a joint effort by the [Harvard Systems Biology Department](https://sysbio.med.harvard.edu/), [the Wyss Institute](https://wyss.harvard.edu/), the [MIT
+Viriditas is a joint effort by the [Harvard Systems Biology Department](https://sysbio.med.harvard.edu/), the [Wyss Institute](https://wyss.harvard.edu/), the [MIT
 Media Lab Space Exploration Initiative](https://www.media.mit.edu/groups/space-exploration/), and
 [Ginkgo Bioworks](https://www.ginkgobioworks.com/).
