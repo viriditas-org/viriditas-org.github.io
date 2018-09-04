@@ -26,4 +26,5 @@ exploration and that *Viriditas* will nucleate the formation of a more stable co
 space-inspired biologists.
 
 The name *Viriditas* is inspired from a concept in Kim Stanley Robinson's *Mars Trilogy*: 
+
 "All these conditions [on Mars] make survival for living things difficult in the extreme. But life is tough and adaptable, it is the green force viriditas, pushing into the universe." -*Green Mars*
