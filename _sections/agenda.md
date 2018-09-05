@@ -7,7 +7,7 @@ side: left
 
 ---
 
-The *Viriditas* workshop will be held at Ginkgo Bioworks, [27 Drydock Ave, Floor 8, Boston, MA 02210](https://goo.gl/maps/bNCXeFHLMHk) on October 20<sup>th</sup>, 2018.
+The Viriditas workshop will be held at Ginkgo Bioworks, [27 Drydock Ave, Floor 8, Boston, MA 02210](https://goo.gl/maps/bNCXeFHLMHk) on October 20<sup>th</sup>, 2018.
 
 <table class="agenda">
   <tr>

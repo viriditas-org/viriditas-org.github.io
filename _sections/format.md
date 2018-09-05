@@ -7,7 +7,7 @@ side: right
 
 ---
 
-The structure of *Viriditas* is modeled after the concept of an [unconference](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003905),
+The structure of Viriditas is modeled after the concept of an [unconference](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003905),
 which prioritizes attention and engagement with the partcipants. It will consist of four technical
 talks, interspersed with breakout sessions of 8--10 people each to brainstorm ideas along three
 tracks.
@@ -22,5 +22,5 @@ The goal of this workshop is to have lively and productive discussions about tra
 necessary to create life-support systems on Mars. We plan to coalesce the thoughts and conclusions
 into a review article and white paper that serve as a template for future study. We hope to create a
 stronger network of those who seek cross-disciplinary collaborations on the future of space
-exploration and that *Viriditas* will nucleate the formation of a more stable community of
+exploration and that Viriditas will nucleate the formation of a more stable community of
 space-inspired biologists.

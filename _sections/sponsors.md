@@ -7,7 +7,7 @@ side: right
 
 ---
 
-*Viriditas* would not be possible without the integral support of our sponsors.
+Viriditas would not be possible without the integral support of our sponsors.
 
 
 [![Harvard Medical School logo](/assets/img/sponsors/harvard.png)](https://hms.harvard.edu/ "Harvard Medical School")
