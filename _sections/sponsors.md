@@ -10,12 +10,12 @@ side: right
 *Viriditas* would not be possible without the integral support of our sponsors.
 
 
-[![Harvard Medical School](/assets/img/sponsors/harvard.png)](https://hms.harvard.edu/)
+[![Harvard Medical School logo](/assets/img/sponsors/harvard.png)](https://hms.harvard.edu/ "Harvard Medical School")
 
-[![Harvard Systems Biology Department](/assets/img/sponsors/sysbio.png)](https://sysbio.med.harvard.edu/)
+[![Harvard Department of Systems Biology logo](/assets/img/sponsors/sysbio.png)](https://sysbio.med.harvard.edu/ "Harvard Department of Systems Biology")
 
-[![Wyss Institute for Biologically Inspired Engineering](/assets/img/sponsors/wyss.png)](https://wyss.harvard.edu/)
+[![Wyss Institute logo](/assets/img/sponsors/wyss.png)](https://wyss.harvard.edu/ "Wyss Institute for Biologically Inspired Engineering")
 
-[![MIT Media Lab](/assets/img/sponsors/medialab.png)](https://www.media.mit.edu/)
+[![MIT Media Lab logo](/assets/img/sponsors/medialab.png)](https://www.media.mit.edu/ "MIT Media Lab")
 
-[![Ginkgo Bioworks](/assets/img/sponsors/ginkgo.png)](https://www.ginkgobioworks.com/)
+[![Ginkgo Bioworks logo](/assets/img/sponsors/ginkgo.png)](https://www.ginkgobioworks.com/ "Ginkgo Bioworks")

@@ -189,13 +189,22 @@ main {
     }
   }
 
+  .section-contact {
+    .jumbotron {
+      @extend .bg-image;
+      color: var(--white);
+    }
+  }
+
   .section-sponsors {
     .jumbotron {
       background-color: var(--light);
     }
 
     img {
-      height: 100px;
+      max-height: 100px;
+      max-width: 100%;
+      padding: 0.5rem 0;
     }
   }
 }
