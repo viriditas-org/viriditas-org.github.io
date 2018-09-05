@@ -71,6 +71,17 @@ section {
   }
 }
 
+hr {
+  width: 80%;
+}
+
+blockquote, .blockquote {
+  margin-left: 2rem;
+  border-left: 1px solid;
+  border-color: var(--secondary);
+  padding-left: 1rem;
+}
+
 .navbar-brand {
   img {
     width: 1.5rem;
@@ -147,7 +158,6 @@ main {
       }
       hr {
         border-color: white;
-        width: 80%;
       }
     }
   }
@@ -158,9 +168,6 @@ main {
     }
     .jumbotron {
       background-color: var(--light);
-    }
-    article {
-      text-align: center;
     }
   }
 
