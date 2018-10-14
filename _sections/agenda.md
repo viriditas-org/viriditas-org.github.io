@@ -43,7 +43,7 @@ The Viriditas workshop will be held at Ginkgo Bioworks, [27 Drydock Ave, Floor 8
     <td>
       <ul class="event-info">
         <li class="event-info-name">Invited Talk</li>
-        <li class="event-info-speaker"><a class="scroll-smooth" href="#speakers-bywaters">Kathyrn Bywaters, PhD.</a></li>
+        <li class="event-info-speaker"><a class="scroll-smooth" href="#speakers-bywaters">Kathryn Bywaters, PhD.</a></li>
         <li class="event-info-association"><a href="https://www.nasa.gov/ames">SETI, NASA Ames Research Center</a></li>
       </ul>
     </td>
