@@ -15,7 +15,7 @@ The Viriditas workshop will be held at Ginkgo Bioworks, [27 Drydock Ave, Floor 8
     <td>
       <ul class="event-info">
         <li class="event-info-name">Introduction</li>
-        <li class="event-info-speaker"><a class="scroll-smooth" href="#organizers-shannon">Shannon Nangle, Ph.D.</a></li>
+        <li class="event-info-speaker"><a class="scroll-smooth" href="#organizers-shannon">Shannon Nangle, PhD.</a></li>
         <li class="event-info-association"><a href="https://silver.med.harvard.edu/">Harvard University</a></li>
       </ul>
     </td>
@@ -43,8 +43,8 @@ The Viriditas workshop will be held at Ginkgo Bioworks, [27 Drydock Ave, Floor 8
     <td>
       <ul class="event-info">
         <li class="event-info-name">Invited Talk</li>
-        <li class="event-info-speaker"><a class="scroll-smooth" href="#speakers-rupert">Shannon Rupert, Ph.D.</a></li>
-        <li class="event-info-association"><a href="http://www.marssociety.org/">The Mars Society</a></li>
+        <li class="event-info-speaker"><a class="scroll-smooth" href="#speakers-bywaters">Kathyrn Bywaters, PhD.</a></li>
+        <li class="event-info-association"><a href="https://www.nasa.gov/ames">SETI and NASA Ames Research Center</a></li>
       </ul>
     </td>
   </tr>
@@ -71,7 +71,7 @@ The Viriditas workshop will be held at Ginkgo Bioworks, [27 Drydock Ave, Floor 8
     <td>
       <ul class="event-info">
         <li class="event-info-name">Invited Talk</li>
-        <li class="event-info-speaker"><a class="scroll-smooth" href="#speakers-cumbers">John Cumbers, Ph.D.</a></li>
+        <li class="event-info-speaker"><a class="scroll-smooth" href="#speakers-cumbers">John Cumbers, PhD.</a></li>
         <li class="event-info-association"><a href="https://synbiobeta.com/">SynBioBeta</a></li>
       </ul>
     </td>
@@ -89,7 +89,7 @@ The Viriditas workshop will be held at Ginkgo Bioworks, [27 Drydock Ave, Floor 8
     <td>
       <ul class="event-info">
         <li class="event-info-name">Invited Talk</li>
-        <li class="event-info-speaker"><a class="scroll-smooth" href="#speakers-karimi">Tara Karimi, Ph.D.</a></li>
+        <li class="event-info-speaker"><a class="scroll-smooth" href="#speakers-karimi">Tara Karimi, PhD.</a></li>
         <li class="event-info-association"><a href="https://www.cemvitafactory.com/">Cemvita Factory</a></li>
       </ul>
     </td>
