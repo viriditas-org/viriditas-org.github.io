@@ -1,18 +1,17 @@
 ---
-name: 'Shannon Rupert, Ph.D.'
-tagline: 'Director, <a href="http://www.marssociety.org/">The Mars Society</a>; Program Manager, <a href="http://mdrs.marssociety.org/">MDRS Mission</a>'
-img: photos/speakers/rupert.png
+name: 'Kathyrn Bywaters, Ph.D.'
+tagline: 'Research Scientist, <a href="https://www.seti.org/our-scientists/kathryn-bywaters/">SETI, NASA Ames Research Center</a>; 
+img: photos/speakers/kathyrn.png
 order: 2
 
 ---
 
-Shannon Rupert is an ecologist with two decades of experience in Mars analog studies. Formerly a
-professor of biology and environmental science, she is currently a director at the Mars Desert
-Research Station in Hanksville, Utah. She is an expert in planetary mission simulations and field
-exploration. Her current research includes the microbial ecology of planetary analogs and the
-patterns of chemical signatures in dinosaur bone of the Morrison Formation. She is a collaborator
-on many other science investigations. Shannon holds a Ph.D. in Biology (social ecology of acequias)
-from the University of New Mexico, a master’s degree in Biological Sciences (plant ecology) from
-California State University, San Marcos, a bachelor’s degree in Ecology, Behavior and Evolution from
-the University of California, San Diego, and an associate’s degree in biology from San Diego Miramar
-College.
+Kathryn Bywaters is a SETI research scientist at NASA Ames Research Center. Her
+work encompasses a wide range of interdisciplinary projects including the development
+of life detection instrumentation for future space exploration and investigating constraints
+on microbial growth in extreme environments.
+Kathryn has extensive fieldwork experience is some of the most extreme environments
+on Earth. She sent 4 months working on Devon Island in the Canadian High Artic
+looking at the winter to spring transition in active layer above the permafrost. She has
+performed three field seasons in the Yungay region of the Atacama Desert, one of the
+driest places on Earth, working on the testing and development of instrumentation.
