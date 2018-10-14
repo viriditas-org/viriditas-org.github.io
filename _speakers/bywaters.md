@@ -1,6 +1,6 @@
 ---
-name: 'Kathyrn Bywaters, Ph.D.'
-tagline: 'Research Scientist, <a href="https://www.seti.org/our-scientists/kathryn-bywaters/">SETI, NASA Ames Research Center</a>; 
+name: 'Kathyrn Bywaters, PhD'
+tagline: 'Research Scientist, <a href="https://www.seti.org/our-scientists/kathryn-bywaters/">SETI, NASA Ames Research Center</a>' 
 img: photos/speakers/kathyrn.jpg
 order: 2
 
