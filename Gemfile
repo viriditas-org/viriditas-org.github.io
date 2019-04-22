@@ -5,7 +5,7 @@ group :jekyll_plugins do
 end
 
 group :jekyll_plugins, :development  do
-  gem 'jekyll-debug', github: 'viriditas-org/jekyll-debug', branch: 'fix-issue-1'
+  gem 'jekyll-debug'
 end
 
 group :development  do
