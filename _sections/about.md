@@ -28,7 +28,7 @@ The name _Viriditas_ is inspired from a concept in Kim Stanley Robinson's [_Mars
   All these conditions make survival for living things difficult in the extreme. But
   life is tough and adaptable, it is the green force viriditas, pushing into the universe.
   <footer class="blockquote-footer">
-    <cite title="Green Mars">[Green Mars](https://books.google.com/books?id=RuxpY5T5kKMC&lpg=PT10&pg=PT10#v=onepage&q&f=false)</cite>
+    <cite title="Green Mars"><a href="https://books.google.com/books?id=RuxpY5T5kKMC&lpg=PT10&pg=PT10#v=onepage&q&f=false">Green Mars</a></cite>
   </footer>
 </blockquote>
 
