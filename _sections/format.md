@@ -7,20 +7,17 @@ side: right
 
 ---
 
-The structure of Viriditas is modeled after the concept of an [unconference](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003905),
-which prioritizes attention and engagement with the partcipants. It will consist of four technical
-talks, interspersed with breakout sessions of small groups each to brainstorm ideas along three
-tracks.
-
-After each talk, the participants can select which track is most interesting and join a breakout
-session that focuses on that topic. The sessions will be participant-driven and guided by a
-facilitator who will encourage and support contributions from each member. Each group will
-contribute to a live slide deck to summarize the group's discussion. Please be aware that
-<span class="text-primary">**active participation is strongly encouraged**</span>.
+We strive to maximize information exchange and will prioritize discussion and engagement of all
+participants. Participants will be sorted into groups based on their expertise and interests. Each
+group will be mediated by a facilitator. Similar to a hackathon, over the course of the day, the
+groups will generate a hypothetical project plan to accomplish their goals. Periodic checkpoints
+will break up the sessions to guide and focus progress. At each checkpoint, a domain expert will
+discuss their work and thoughts on the projects. The day will end in a keynote and reception.
 
 The goal of this workshop is to have lively and productive discussions about tractable steps
-necessary to create life-support systems on Mars. We plan to coalesce the thoughts and conclusions
-into a review article and white paper that serve as a template for future study. We hope to create a
-stronger network of those who seek cross-disciplinary collaborations on the future of space
-exploration and that Viriditas will nucleate the formation of a more stable community of
-space-inspired biologists.
+necessary to create life-support systems on Mars. Please be aware that <span
+class="text-primary">**active participation is strongly encouraged**</span>. We plan to coalesce the
+thoughts and conclusions into additional publications that drive future planning and engineering
+efforts. We hope to strengthen the network of those who seek cross-disciplinary collaborations on
+the future of space exploration and that Viriditas will nucleate the formation of a more stable
+community of space-inspired biologists.
