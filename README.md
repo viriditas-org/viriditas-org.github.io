@@ -19,7 +19,7 @@ resulting HTML at [`http://localhost:4000`](http://locahost:4000).
 ## Site organization
 
 This is a single-page site, focused aorund the index page. The contents of the index are defined in
-`index.html`, and the overall core html structure of the html is defined in the default layout,
+`index.html`, and the overall structure of the page is defined in the default layout,
 `_layouts/default.html`.
 
 The index contents are divided into sections. Apart from the title section, these sections have their
