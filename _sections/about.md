@@ -16,7 +16,7 @@ parallels between a sustainable Mars and sustainable Earth and will bias discuss
 that support the long-term interests of both planets, ideally by engaging Earth markets to bootstrap
 Martian infrastructure.
 
-The workshop will be a full-day event on November 15th, 2019 at **TBD**.
+The workshop will be a full-day event on November 20<sup>th</sup>, 2019 at the [Hyatt Regency Boston](https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-regency-boston/bosto)
 
 Viriditas is a joint effort by the AIChE, Ouroboros Biomanufacturing, Ginkgo Bioworks, and the MIT
 Media Lab Space Exploration Initiative. For further information, please see the [Organizers](#organizers) and
