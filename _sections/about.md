@@ -15,7 +15,7 @@ designs that can be implemented in the first crewed missions to Mars circa 2050.
 parallels between a sustainable Mars and sustainable Earth and will bias discussion toward efforts
 that support the long-term interests of both planets.
 
-The workshop will be a full-day event on November 20<sup>th</sup>, 2019 at the [Hyatt Regency Boston](https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-regency-boston/bosto)
+The workshop will be a full-day event on November 20<sup>th</sup>, 2019 at the [Hyatt Regency Boston](https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-regency-boston/bosto).
 
 Viriditas is a joint effort by the AIChE, Ariadne Biosciences, Ginkgo Bioworks, and the MIT
 Media Lab Space Exploration Initiative. For further information, please see the [Organizers](#organizers) and
