@@ -9,16 +9,15 @@ menu_order: 1
 ### We need a plan, and we need it now.
 
 Viriditas is a focused, discussion-based workshop geared towards coalescing a practical plan for a
-sustainable settlement on Mars. Resulting from its [inaugural meeting in 2018](/2018), we published a
-Perspective in **Journal TBD** framing the problem. This year, we will back out approaches and
-designs that can be implemented in the first crewed missions to Mars circa 2040. We see many
+sustainable settlement on Mars. Resulting from its [inaugural meeting in 2018](/2018), we submitted a
+Perspective for publication framing the problem. This year, we will back out approaches and
+designs that can be implemented in the first crewed missions to Mars circa 2050. We see many
 parallels between a sustainable Mars and sustainable Earth and will bias discussion toward efforts
-that support the long-term interests of both planets, ideally by engaging Earth markets to bootstrap
-Martian infrastructure.
+that support the long-term interests of both planets.
 
 The workshop will be a full-day event on November 20<sup>th</sup>, 2019 at the [Hyatt Regency Boston](https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-regency-boston/bosto)
 
-Viriditas is a joint effort by the AIChE, Ouroboros Biomanufacturing, Ginkgo Bioworks, and the MIT
+Viriditas is a joint effort by the AIChE, Ariadne Biosciences, Ginkgo Bioworks, and the MIT
 Media Lab Space Exploration Initiative. For further information, please see the [Organizers](#organizers) and
 [Sponsors](#sponsors) sections of the site.
 
