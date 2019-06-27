@@ -11,8 +11,7 @@ We strive to maximize information exchange and will prioritize discussion and en
 participants. Participants will be sorted into groups based on their expertise and interests. Each
 group will be mediated by a facilitator. Similar to a hackathon, over the course of the day, the
 groups will generate a hypothetical project plan to accomplish their goals. Periodic checkpoints
-will break up the sessions to guide and focus progress. At each checkpoint, a domain expert will
-discuss their work and thoughts on the projects. The day will end in a keynote and reception.
+will break up the sessions to guide and focus progress. The day will end in a keynote and reception.
 
 The goal of this workshop is to have lively and productive discussions about tractable steps
 necessary to create life-support systems on Mars. Please be aware that <span
