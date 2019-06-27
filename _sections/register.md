@@ -6,9 +6,10 @@ section_layout: default
 side: right
 
 ---
+We encourage anyone interested in having an in depth and rigorous discussion about actionable biological solutions to ISRU. Please send a brief description of your interests and expertise. To attend the workshop, please apply before Nov 1st. We will review your application and reply with an invite within three days.
 
-To register, please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSeSqF8K1UWoS5mjXK5R98G2Rhfb5m1iLqBebBbPb7VFN7DBLw/formResponse)
+To apply, please fill out the [application form](https://docs.google.com/forms/d/e/1FAIpQLSeOBQ7_Iopi16UOdRGJNAUgdINfOW1pNFXaz0Q8lzj4WUi3NQ/viewform?usp=sf_link)
 
-Attendance is invite-only; the password is provided in the invitation email. If you received an
-invite email and would like to extend the invitation to others in your organization, please contact
-the organizers for a separate invitation, rather than forwarding the email.
+If you received an invite, please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSeSqF8K1UWoS5mjXK5R98G2Rhfb5m1iLqBebBbPb7VFN7DBLw/formResponse)
+
+The password is provided in the invitation email. 
