@@ -1,7 +1,7 @@
 ---
 
 title: Keynote
-menu_order: 2
+menu_order: 3
 section_layout: card-collection
 side: right
 
