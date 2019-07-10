@@ -9,6 +9,7 @@ description: Engineering Biology for Space Exploration
 collections:
   sections:
   speakers:
+  keynote:
   organizers:
 
 # Jekyll Settings
