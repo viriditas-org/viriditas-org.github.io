@@ -1,7 +1,7 @@
 ---
 
 title: Contact
-menu_order: 7
+menu_order: 6
 section_layout: default
 side: left
 
