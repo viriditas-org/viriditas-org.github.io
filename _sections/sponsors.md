@@ -1,7 +1,7 @@
 ---
 
 title: Sponsors
-menu_order: 8
+menu_order: 7
 section_layout: default
 side: right
 
