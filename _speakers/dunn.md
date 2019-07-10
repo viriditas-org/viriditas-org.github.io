@@ -1,7 +1,7 @@
 ---
 name: Joy Dunn
 tagline: 'Head of Manufacturing, <a href="https://www.cfs.energy/">Commonwealth Fusion Systems</a>'
-img: photos/speakers/dunn.jpeg
+img: photos/speakers/dunn.jpg
 order: 1
 
 ---
