@@ -17,8 +17,7 @@ that support the long-term interests of both planets.
 
 The workshop will be a full-day event on November 20<sup>th</sup>, 2019 at the [Hyatt Regency Boston](https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-regency-boston/bosto).
 
-Viriditas is a joint effort by the AIChE, Ariadne Biosciences, Ginkgo Bioworks, and the MIT
-Media Lab Space Exploration Initiative. For further information, please see the [Organizers](#organizers) and
+Viriditas is a joint effort by the Harvard Systems Biology Department, AIChE, Ginkgo Bioworks. For further information, please see the [Organizers](#organizers) and
 [Sponsors](#sponsors) sections of the site.
 
 The name _Viriditas_ is inspired from a concept in Kim Stanley Robinson's [_Mars Trilogy_](https://www.kimstanleyrobinson.info/content/mars-trilogy):
