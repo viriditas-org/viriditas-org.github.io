@@ -1,0 +1,37 @@
+<!--
+  Implement a kind of "extension" pattern by wrapping this section's content inside the default
+  section layout.
+!-->
+{% capture collection_content %}
+  {{ include.content }}
+
+  {%- assign page_slug = include.title | slugify -%}
+  {%- assign items = site[page_slug] | where_exp: "item", "item.order" | sort: "order" -%}
+
+  <div class="collection">
+    <div class="card-group">
+      {% for item in items %}
+        <div id="{{ page_slug }}-{{ item.slug }}" class="card rounded-0 shadow-sm border-0">
+          <div class="card-body container">
+            <div class="row"><h3 class="col card-title">{{ item.name }}</h5></div>
+            <div class="row">
+              <p class="col card-text"><small class="text-muted">{{ item.tagline }}</small></p>
+            </div>
+            <div class="row">
+              <div class="col-5">
+                <img class="img-fluid" src="/assets/img/{{ item.img }}" />
+              </div>
+              <div class="col">
+                <div class="card-text">
+                  {{ item.content }}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+{% endcapture %}
+
+{% include section_layouts/default.html title=include.title content=collection_content %}
