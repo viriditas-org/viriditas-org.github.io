@@ -1,6 +1,6 @@
 ---
 name: Sara Walker
-tagline: ' Associate Professor in the , <a href="http://emergence.asu.edu//">School of Earth and Space Exploration at ASU</a>'
+tagline: ' Associate Professor, <a href="http://emergence.asu.edu//">School of Earth and Space Exploration at ASU</a>'
 img: photos/speakers/walker.jpg
 order: 1
 
