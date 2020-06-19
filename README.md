@@ -36,7 +36,7 @@ The front matter must be valid [YAML](http://yaml.org/) and determines how the s
 displayed and organized.
 
 Unlike a traditional multi-page Jekyll site, this site does not make significant use of layouts,
-opting instead to use the `includ` directive to modularize content while displaying it all on a
+opting instead to use the `include` directive to modularize content while displaying it all on a
 single page.
 
 ### Site metadata
@@ -52,9 +52,9 @@ To edit a section's main content, simply write content in Markdown in the `.md` 
 
 ### Speaker and organizer info
 
-The Speakers and Organizers sections are different from other sections: they automatically reads the
-data contained in `_{speakers,organizers}/*.md`, and use it to create the speaker cards. To add an
-individual, or modify their information, add or modify a `.md` file in that folder. The person's
+The Speakers and Organizers sections are different from other sections: they automatically read the
+data contained in `_{speakers,organizers}/*.md` and use it to create the speaker cards. To add an
+individual or modify their information, add or modify a `.md` file in that folder. The person's
 name should be specified in the front matter of the Markdown file.
 
 ### Static files
